@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:34:06.717+00:00"}
+{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:35:27.234+00:00"}
 ---
 
 Here are some things that I believe about how to live, in no particular order.
@@ -38,7 +38,7 @@ The only things we can truly control are our thoughts and actions. We can't even
 Our minds can only model the world. Models are necessarily incomplete.
   We should resist being satisfied with our conclusions. We can watch, study, learn, and be ready to [irreverently](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track) throw out ideas when they're wrong.
 
-[Everything is a system](https://www.goodreads.com/en/book/show/3828902
+[Everything is a system](https://www.goodreads.com/en/book/show/3828902)
 The direct cause of a problem is sometimes misleading. Look for the underlying systemic issues and their downstream effects. [Challenges and responses > problems and solutions](https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1509972/full). Think synergistically across domains when responding to challenges.
 
 [The world is in a state of metacrisis](https://www.youtube.com/watch?v=4kBoLVvoqVY)
