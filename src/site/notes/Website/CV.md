@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"CV.md","permalink":"/cv/","hide":true,"updated":"2025-12-27T21:57:39.148+00:00"}
+{"dg-publish":true,"dg-path":"CV.md","permalink":"/cv/","hide":true,"updated":"2025-12-27T22:00:24.703+00:00"}
 ---
 
 
