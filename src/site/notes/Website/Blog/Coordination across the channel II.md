@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Coordination across the channel II.md","permalink":"/blog/coordination-across-the-channel-ii/","title":"Coordination Across the Channel: The EU and UK Agree on a Competition Cooperation Agreement","updated":"2025-12-27T20:59:32.602+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Coordination across the channel II.md","permalink":"/blog/coordination-across-the-channel-ii/","title":"Coordination Across the Channel II","updated":"2025-12-27T21:34:52.502+00:00"}
 ---
 
 
