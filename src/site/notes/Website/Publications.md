@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/","updated":"2025-12-27T18:31:33.480+00:00"}
+{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/","updated":"2025-12-27T20:01:54.143+00:00"}
 ---
 
 All publications should be somehow accessible through open access. Please email me if you can’t find a link.
@@ -9,8 +9,7 @@ All publications should be somehow accessible through open access. Please email 
 > [!abstract]- Davies, T., & Cohen, S. (2025). [Error Costs, Platform Regulation and Democracy](https://academic.oup.com/jcle/advance-article/doi/10.1093/joclec/nhaf008/8087997) Journal of Competition Law and Economics.
 > The New Platform Regulations (NPRs), which include the Digital Markets Act, the Digital Markets, Competition and Consumers Act, and others, were crafted to foster fair and contestable digital markets. Each of the NPRs share a common feature: a precautionary error-cost framework which permits intervention to protect competition before harm occurs. This article examines how this precautionary approach to error costs allows the competition regime to pursue the value of democracy, alongside others. It identifies three mechanisms through which a precautionary conception of error costs, as adopted by the NPRs, can pursue democratic ideals: ensuring that powerful firms do not exist beyond regulatory control, shielding consumers from domination by platform monopolies through contestable markets that protect consumer choice, and reclaiming the role of ‘architecting’ markets from private actors as to reflect the public interest.
 
-> [!abstract]- Davies, T., & Georgieva, Z. (2025). [Google AdTech: Break Up or Break Out?](https://doi.org/10.36633/ulr.1113)  
-Utrecht Law Journal - Special Issue on Modern Bigness.
+> [!abstract]- Davies, T., & Georgieva, Z. (2025). [Google AdTech: Break Up or Break Out?](https://doi.org/10.36633/ulr.1113)  Utrecht Law Journal - Special Issue on Modern Bigness.
 > We ask can’t consumers choose which advertising network they would like to use with Google’s zero-priced online platforms? Our answer is that by integrating its advertising network into its popular online platforms, Google has foreclosed competition in the online advertising market by denying rival supply-side ad networks access to its customer base. We propose a remedy called marketised monetisation, which is complementary to the break-up proposed by the Commission. Marketised monetisation would introduce an interoperability layer between Google’s popular online services and third-party ad networks to make the online advertising market more contestable. The interoperability layer would allow consumers to choose which firm should monetise their usage of Google’s zero-priced products and services.
 
 > [!note]- Davies, T. [Market Diversity and Market Churn: Measures of Competitive Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185363)  Preprint.
