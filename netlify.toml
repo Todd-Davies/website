@@ -8,11 +8,6 @@
   status = 200
 
 [[redirects]]
-  from = "/cv.pdf"
-  to = "/img/user/Website/Static/cv.pdf"
-  status = 200
-
-[[redirects]]
   from = "/*"
   to = "/404"
   status = 404
