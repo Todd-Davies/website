@@ -124,7 +124,7 @@ body {
     --dg-mermaid-padding: 10px;
     --dg-transclusion-padding: 8px;
     --dg-external-link-icon-size: 13px;
-    --dg-external-link-padding: 16px;
+    --dg-external-link-padding: 0px;
     overflow-x: hidden;
     contain: none !important;  // Override obsidian-base to allow position: fixed to work
     --note-icon-1: url(/img/tree-1.svg);
