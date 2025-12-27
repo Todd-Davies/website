@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:24:17.060+00:00"}
+{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:25:20.942+00:00"}
 ---
 
 Here are some things that I believe about how to live, in no particular order.
@@ -30,7 +30,7 @@ Here are some things that I believe about how to live, in no particular order.
   You get to decide what the good life looks like.
   Pay [attention](https://lithub.com/simone-weils-radical-conception-of-attention/) to what matters.
   There are several ways to train your attention. Meditation is a good one.
-  [Develop a unique bundle of skills. Excel at them.](https://www.goodreads.com/en/book/show/18050143)
+- [Develop a unique bundle of skills. Excel at them.](https://www.goodreads.com/en/book/show/18050143)
   These skills define your niche.
   A small enough niche has no competition, so you're always a winner.
   Competition is good for populations, but harsh for individuals.
@@ -50,39 +50,39 @@ Here are some things that I believe about how to live, in no particular order.
   We can't even control what happens to our bodies. For example, we can get sick.
   Focus on what you can control, avoid worrying about what you can't.
 - [An intelligent mind is an inquiring mind](https://www.goodreads.com/book/show/13470.Think_on_These_Things)
-  - Our minds can only model the world.
-  - Models are necessarily incomplete.
-  - We should resist being satisfied with our conclusions.
-  - We can watch, study, learn, and be ready to [irreverently](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track) throw out ideas when they're wrong.
+  Our minds can only model the world.
+  Models are necessarily incomplete.
+  We should resist being satisfied with our conclusions.
+  We can watch, study, learn, and be ready to [irreverently](https://www.goodreads.com/book/show/5550.Perfectly_Reasonable_Deviations_from_the_Beaten_Track) throw out ideas when they're wrong.
 - [Everything is a system](https://www.goodreads.com/en/book/show/3828902)
-  - The direct cause of a problem is sometimes misleading.
-  - Look for the underlying systemic issues and their downstream effects.
-  - [Challenges and responses > problems and solutions](https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1509972/full).
-  - Think synergistically across domains when responding to challenges.
+  The direct cause of a problem is sometimes misleading.
+  Look for the underlying systemic issues and their downstream effects.
+  [Challenges and responses > problems and solutions](https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1509972/full).
+  Think synergistically across domains when responding to challenges.
 - [The world is in a state of metacrisis](https://www.youtube.com/watch?v=4kBoLVvoqVY)
-  - Metacrisis is the idea that humanity faces a set of overlapping and interlinked crises.
-  - These crises are often driven by related mechanisms.
-  - These are things like the growth imperative, geopolitical competition, resource depletion, etc.
-  - These things also risk becoming [hypernormalised](https://www.adbusters.org/articles-coded/what-is-hypernormalization).
-  - Navigating through the metacrisis is a defining challenge of my generation.
-  - Nihilism is bad.
+  Metacrisis is the idea that humanity faces a set of overlapping and interlinked crises.
+  These crises are often driven by related mechanisms.
+  These are things like the growth imperative, geopolitical competition, resource depletion, etc.
+  These things also risk becoming [hypernormalised](https://www.adbusters.org/articles-coded/what-is-hypernormalization).
+  Navigating through the metacrisis is a defining challenge of my generation.
+  Nihilism is bad.
 - [We should aim for significant things](https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering)
-  - We only get one life.
-  - It's better to use it on significant things, rather than to "muddle through".
-  - You can still enjoy something, even if you ultimately fail.
-  - You get to define what is significant.
-  - If you're stuck, aim for ['sacred' over 'utility'](https://www.google.com/search?q=Max+Scheler+pyramid+of+values&tbm=isch).
-  - Success is mostly about perspiration and luck. Luck favours the prepared mind.
+  We only get one life.
+  It's better to use it on significant things, rather than to "muddle through".
+  You can still enjoy something, even if you ultimately fail.
+  You get to define what is significant.
+  If you're stuck, aim for ['sacred' over 'utility'](https://www.google.com/search?q=Max+Scheler+pyramid+of+values&tbm=isch).
+  Success is mostly about perspiration and luck. Luck favours the prepared mind.
 - You can, and should, align yourself with the public interest
-  - You can have a fun life by being selfish.
-  - To be truly content, you need to participate in the society in which you live.
-  - It feels good to work on something larger than yourself.
-  - Don't underestimate your capacity to contribute to the world!
+  You can have a fun life by being selfish.
+  To be truly content, you need to participate in the society in which you live.
+  It feels good to work on something larger than yourself.
+  Don't underestimate your capacity to contribute to the world!
 - I broadly adhere to a [virtue ethic](https://en.wikipedia.org/wiki/Virtue_ethics).
 - Market Socialism is the most promising political economic system
-  - Markets are vital to [figuring out what society needs](https://cdn.mises.org/qjae5_3_3.pdf)
-  - But free market capitalism leads to exploitation, dispossession, and wealth accumulation.
-  - Market socialism aims to have competitive markets with minimal (or dispersed) private ownership.
+  Markets are vital to [figuring out what society needs](https://cdn.mises.org/qjae5_3_3.pdf)
+  But free market capitalism leads to exploitation, dispossession, and wealth accumulation.
+  Market socialism aims to have competitive markets with minimal (or dispersed) private ownership.
 
 Comments? Get in touch via [email](mailto:todd@todddavi.es) or [anonymously](https://www.admonymous.co/daviest).
 
