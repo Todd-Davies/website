@@ -8,8 +8,8 @@
   status = 200
 
 [[redirects]]
-  from = "/cv.pdf"
-  to = "/img/user/Website/Static/cv.pdf"
+  from = "/img/user/Website/Static/cv.pdf"
+  to = "/cv.pdf"
   status = 200
 
 [[redirects]]
