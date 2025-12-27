@@ -12530,6 +12530,9 @@ em {
   margin-block-end: var(--p-spacing);
   unicode-bidi: plaintext;
 }
+.markdown-rendered p:first-of-type {
+  margin-block-start: 0;
+}
 .markdown-rendered mark {
   background-color: var(--text-highlight-bg);
   color: var(--text-normal);

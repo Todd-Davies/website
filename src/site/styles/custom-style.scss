@@ -1,13 +1,21 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  .note-header {
+    margin-bottom: 10px;
+  }
+
+  .me-image {
+    border-radius: 50%; object-fit: cover; border: 2px solid var(--h1-color);
+  }
+
+  .navbar-inner {
+    cursor: auto !important;
+  }
+
+  .navbar-menu-icon {
+    cursor: pointer !important;
+  }
+
+  .fullpage-overlay {
+    cursor: pointer;
+  }
 }

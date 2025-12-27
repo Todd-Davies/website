@@ -11,7 +11,7 @@ body {
 
     /* Layout Variables */
     --dg-content-max-width: 700px;
-    --dg-content-padding-top: 90px;
+    --dg-content-padding-top: 0px;
     --dg-content-padding-top-mobile: 75px;
     --dg-content-font-size: 18px;
     --dg-content-line-height: 1.5;
@@ -35,7 +35,7 @@ body {
     /* Filetree (Left Sidebar) Variables */
     --dg-filetree-width: 250px;
     --dg-filetree-min-width: 250px;
-    --dg-filetree-padding: 10px 20px;
+    --dg-filetree-padding: 29px 20px;
     --dg-filetree-gap: 80px;
     --dg-filetree-title-size: 32px;
 
@@ -85,11 +85,11 @@ body {
 
     /* Navbar Variables */
     --dg-navbar-height: 60px;
-    --dg-navbar-title-size-mobile: 18px;
+    --dg-navbar-title-size-mobile: 29px;
     --dg-navbar-search-margin: 20px;
     --dg-navbar-search-min-width: 36px;
     --dg-logo-height: 40px;
-    --dg-logo-height-mobile: 32px;
+    --dg-logo-height-mobile: 40px;
     --dg-logo-margin: 10px 15px;
 
     /* Note Link / File Tree Item Variables */
@@ -603,7 +603,8 @@ body.has-navbar .content {
 
     @media (max-width: 800px) {
         h1 {
-            font-size: var(--dg-navbar-title-size-mobile) !important;
+            // This was just annoying
+            // font-size: var(--dg-navbar-title-size-mobile) !important;
         }
     }
 
@@ -611,6 +612,7 @@ body.has-navbar .content {
         display: flex;
         align-items: center;
         cursor: pointer;
+        width: 100%;
 
         > span {
             display: flex;
