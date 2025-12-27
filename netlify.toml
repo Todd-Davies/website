@@ -12,3 +12,7 @@
   to = "/404"
   status = 404
 
+[[redirects]]
+  from = "/cv.pdf"
+  to = "/img/user/Website/Static/cv.pdf"
+  status = 404
