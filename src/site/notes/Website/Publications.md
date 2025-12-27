@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/","updated":"2025-12-27T20:04:23.086+00:00"}
+{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/","updated":"2025-12-27T20:05:48.541+00:00"}
 ---
 
 All publications should be somehow accessible through open access. Please email me if you can’t find a link.
 
 **Key**:
-
-| Colour     | Status             |
-| ---------- | ------------------ |
-| Light blue | Published          |
-| Dark blue  | Preprint/in review |
-
+- Light blue: published in peer reviewed journals
+- Dark blue: preprints/in review
 
 # 2025
 
