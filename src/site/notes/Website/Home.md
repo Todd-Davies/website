@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":true,"tags":["gardenEntry"],"updated":"2025-12-27T22:12:35.096+00:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-27T22:14:45.755+00:00"}
 ---
 
 I’m a final year PhD candidate in Competition Law at [University College London](https://www.ucl.ac.uk/laws/), supervised by [Ioannis Lianos](https://profiles.ucl.ac.uk/1800-ioannis-lianos), [Deni Mantzari](https://profiles.ucl.ac.uk/24171-despoina-mantzari) and [David Murrell](https://profiles.ucl.ac.uk/604-david-murrell).
