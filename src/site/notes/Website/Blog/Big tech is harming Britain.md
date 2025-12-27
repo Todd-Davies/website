@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Big tech is harming Britain.md","permalink":"/blog/big-tech-is-harming-britain/","title":"Big Tech is Harming Britain","updated":"2025-12-27T21:03:14.244+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Big tech is harming Britain.md","permalink":"/blog/big-tech-is-harming-britain/","title":"Big Tech is Harming Britain","hide":true,"pinned":true,"updated":"2025-12-27T21:03:34.946+00:00"}
 ---
 
 
