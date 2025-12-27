@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2025-12-27T21:11:11.562+00:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2025-12-27T21:12:04.843+00:00"}
 ---
 
 I’m a final year PhD candidate in Competition Law at [University College London](https://www.ucl.ac.uk/laws/), supervised by [Ioannis Lianos](https://profiles.ucl.ac.uk/1800-ioannis-lianos), [Deni Mantzari](https://profiles.ucl.ac.uk/24171-despoina-mantzari) and [David Murrell](https://profiles.ucl.ac.uk/604-david-murrell). My research asks how dominant companies harm the effective structure of competition. Drawing on theoretical ecology, it challenges the conventional approach to competition enforcement by proposing a new ontology of competition. In doing so, it provides a fresh interpretation of exclusionary abuse of dominance under Article 102 TFEU.
@@ -10,8 +10,10 @@ I hold a master’s degree in [Politics and Technology](https://www.tum.de/en/st
 
 Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[Website/Beliefs\|list of things I believe]].
 
-# [[Website/Blog/Blog\|Blog]]
 ---
+
+# [[Website/Blog/Blog\|Blog]]
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blog/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
