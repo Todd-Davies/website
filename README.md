@@ -9,6 +9,13 @@ See the README in the plugin repo for information on how to set it up.
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
 
 ---
+## Running locally
+
+> npm install
+> npm run build
+> npm run start
+
+---
 ## CSS Variables
 
 The digital garden is fully customizable through CSS variables. Override these in `src/site/styles/custom-style.scss` to customize your garden's appearance.
