@@ -13,7 +13,7 @@ I blog somewhat regularly. But not (usually) here. Instead, I like to write in v
 - [[Website/Blog/The European Commission can and must act on excessive pricing\|The European Commission Can and Must Act on Excessive Pricing]] (2025-10-08)
 - [[Website/Blog/Coordination across the channel II\|Coordination Across the Channel: The EU and UK Agree on a Competition Cooperation Agreement]] (2025-07-18)
 - [[Website/Blog/Did Meta tie its AI assistant to WhatsApp?\|Did Meta Tie its AI Assistant to WhatsApp?]] (2025-04-30)
-- [[Website/Blog/google ad tech break up or break out\|Google AdTech: Break Up or Break Out]] (2025-01-31)
+- [[Website/Blog/Google ad tech - break up or break out\|Google AdTech: Break Up or Break Out]] (2025-01-31)
 - [[Website/Blog/Democracy or domination\|Democracy or Domination]] (2025-01-23)
 
 { .block-language-dataview}
