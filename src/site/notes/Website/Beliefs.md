@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:26:03.202+00:00"}
+{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:27:14.653+00:00"}
 ---
 
 Here are some things that I believe about how to live, in no particular order.
 
-- [Enthusiasm matters](https://nat.org/)
-  Doing great work requires motivation.
-  It's easier to be motivated when you like something.
-  Things become more enjoyable when you get good at them.
-- [Self examination is important](https://www.goodreads.com/en/book/show/29568959)
-  It's possible to critically assess your own thought patterns.
-  This lets you improve how you think.
+[Enthusiasm matters](https://nat.org/)
+>  Doing great work requires motivation. It's easier to be motivated when you like something. Things become more enjoyable when you get good at them.
+
+[Self examination is important](https://www.goodreads.com/en/book/show/29568959)
+> It's possible to critically assess your own thought patterns.  This lets you improve how you think.
+
 - [Speed is important](https://nat.org/)
   You learn via receiving feedback from your actions.
   The quicker you execute, the more feedback you'll generate.
