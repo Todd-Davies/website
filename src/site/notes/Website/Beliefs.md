@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:25:20.942+00:00"}
+{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-27T21:26:03.202+00:00"}
 ---
 
 Here are some things that I believe about how to live, in no particular order.
@@ -71,6 +71,7 @@ Here are some things that I believe about how to live, in no particular order.
   It's better to use it on significant things, rather than to "muddle through".
   You can still enjoy something, even if you ultimately fail.
   You get to define what is significant.
+  Develop your [moral ambition](https://www.goodreads.com/book/show/218372426-moral-ambition)!
   If you're stuck, aim for ['sacred' over 'utility'](https://www.google.com/search?q=Max+Scheler+pyramid+of+values&tbm=isch).
   Success is mostly about perspiration and luck. Luck favours the prepared mind.
 - You can, and should, align yourself with the public interest
