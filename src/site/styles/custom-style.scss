@@ -1,4 +1,6 @@
 body {
+  --dg-transclusion-padding: 0px;
+
   .note-header {
     margin-bottom: 10px;
   }
@@ -17,5 +19,9 @@ body {
 
   .fullpage-overlay {
     cursor: pointer;
+  }
+
+  .markdown-embed {
+    border-inline-start: none;
   }
 }
