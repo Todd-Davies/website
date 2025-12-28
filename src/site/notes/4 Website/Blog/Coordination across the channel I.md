@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Coordination across the channel I.md","permalink":"/blog/coordination-across-the-channel-i/","title":"Coordination Across the Channel I","updated":"2025-12-27T21:34:49.680+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Coordination across the channel I.md","permalink":"/blog/coordination-across-the-channel-i/","title":"Coordination Across the Channel I","updated":"2024-11-25T00:40:04-07:00"}
 ---
 
 

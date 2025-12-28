@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes.md","permalink":"/notes/","hide":true,"updated":"2025-12-27T18:57:31.686+00:00"}
+{"dg-publish":true,"dg-path":"Notes.md","permalink":"/notes/","hide":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/","updated":"2025-12-28T16:29:58.672+00:00"}
+{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/"}
 ---
 
 All publications should be somehow accessible through open access. Please email me if you can’t find a link.

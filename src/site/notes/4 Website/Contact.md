@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Contact.md","permalink":"/contact/","updated":"2025-12-28T17:08:25.273+00:00"}
+{"dg-publish":true,"dg-path":"Contact.md","permalink":"/contact/"}
 ---
 
 You can contact me in the following ways:

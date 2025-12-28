@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true,"updated":"2025-12-28T23:35:21.599+00:00"}
+{"dg-publish":true,"dg-path":"Beliefs.md","permalink":"/beliefs/","dgShowInlineTitle":true}
 ---
 
 Here are some things that I believe about how to live, in no particular order.

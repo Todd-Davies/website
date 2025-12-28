@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Did Meta tie its AI assistant to WhatsApp?.md","permalink":"/blog/did-meta-tie-its-ai-assistant-to-whats-app/","title":"Did Meta Tie its AI Assistant to WhatsApp?","updated":"2025-12-27T20:59:24.792+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Did Meta tie its AI assistant to WhatsApp?.md","permalink":"/blog/did-meta-tie-its-ai-assistant-to-whats-app/","title":"Did Meta Tie its AI Assistant to WhatsApp?","updated":"2025-04-30T00:40:04-07:00"}
 ---
 
 

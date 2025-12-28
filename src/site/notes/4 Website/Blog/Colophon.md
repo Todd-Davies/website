@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Colophon.md","permalink":"/blog/colophon/","title":"Colophon","updated":"2025-12-28T17:36:57.198+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Colophon.md","permalink":"/blog/colophon/","title":"Colophon","updated":"2025-12-28T00:40:04-07:00"}
 ---
 
 
