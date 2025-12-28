@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-28T17:01:25.446+00:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-28T17:03:00.334+00:00"}
 ---
 
 I’m a final year PhD candidate in Competition Law at [University College London](https://www.ucl.ac.uk/laws/), supervised by [Ioannis Lianos](https://profiles.ucl.ac.uk/1800-ioannis-lianos), [Deni Mantzari](https://profiles.ucl.ac.uk/24171-despoina-mantzari) and [David Murrell](https://profiles.ucl.ac.uk/604-david-murrell).
@@ -16,32 +16,11 @@ Outside of that, I’m interested in all sorts of things. When not writing my th
 
 # [[4 Website/Blog/Blog Home\|Blog]]
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blog/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-I blog somewhat regularly. But not (usually) here. Instead, I like to write in various places across the internet. This page collates various posts into one place.
-
-# 2025
+Recent posts:
 - [[4 Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
 - [[4 Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (2025-11-28)
 - [[4 Website/Blog/The dark side of computational antitrust\|The Dark Side of Computational Antitrust: When AI is Used to Evade the Law]] (2025-10-28)
 - [[4 Website/Blog/Generative AI - Innovation or Infringement of competition law? (Podcast)\|Podcast - Generative AI: Innovation or Infringement of Competition Law]] (2025-10-24)
 - [[4 Website/Blog/The European Commission can and must act on excessive pricing\|The European Commission Can and Must Act on Excessive Pricing]] (2025-10-08)
-- [[4 Website/Blog/Coordination across the channel II\|Coordination Across the Channel II]] (2025-07-18)
-- [[4 Website/Blog/Did Meta tie its AI assistant to WhatsApp?\|Did Meta Tie its AI Assistant to WhatsApp?]] (2025-04-30)
-- [[4 Website/Blog/Google ad tech - break up or break out\|Google AdTech: Break Up or Break Out]] (2025-01-31)
-- [[4 Website/Blog/Democracy or domination\|Democracy or Domination]] (2025-01-23)
 
 { .block-language-dataview}
-# 2024
-- [[4 Website/Blog/Coordination across the channel I\|Coordination Across the Channel I]] (2024-11-25)
-- [[4 Website/Blog/Big tech is harming Britain\|Big Tech is Harming Britain]] (2024-09-05)
-
-{ .block-language-dataview}
-
-
-</div></div>
