@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-website/blog/google-ad-tech-break-up-or-break-out/","title":"Google AdTech: Break Up or Break Out","updated":"2025-12-27T20:59:17.641+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Google ad tech - break up or break out.md","permalink":"/blog/google-ad-tech-break-up-or-break-out/","title":"Google AdTech: Break Up or Break Out","updated":"2025-12-27T20:59:17.641+00:00"}
 ---
 
 

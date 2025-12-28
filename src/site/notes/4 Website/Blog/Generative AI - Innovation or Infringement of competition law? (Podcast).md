@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-website/blog/generative-ai-innovation-or-infringement-of-competition-law-podcast/","title":"Podcast - Generative AI: Innovation or Infringement of Competition Law","updated":"2025-12-27T21:15:33.899+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Generative AI - Innovation or Infringement of competition law? (Podcast).md","permalink":"/blog/generative-ai-innovation-or-infringement-of-competition-law-podcast/","title":"Podcast - Generative AI: Innovation or Infringement of Competition Law","updated":"2025-12-27T21:15:33.899+00:00"}
 ---
 
 

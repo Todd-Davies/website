@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-website/blog/the-european-commission-can-and-must-act-on-excessive-pricing/","title":"The European Commission Can and Must Act on Excessive Pricing","updated":"2025-12-27T20:59:02.153+00:00"}
+{"dg-publish":true,"dg-path":"Blog/The European Commission can and must act on excessive pricing.md","permalink":"/blog/the-european-commission-can-and-must-act-on-excessive-pricing/","title":"The European Commission Can and Must Act on Excessive Pricing","updated":"2025-12-27T20:59:02.153+00:00"}
 ---
 
 

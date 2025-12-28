@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"blog","permalink":"/blog/","title":"Blog","hide":true,"updated":"2025-12-27T21:05:49.061+00:00"}
+{"dg-publish":true,"dg-path":"Blog/Blog.md","dg-permalink":"blog","permalink":"/blog/","title":"Blog","hide":true,"updated":"2025-12-27T21:05:49.061+00:00"}
 ---
 
 
