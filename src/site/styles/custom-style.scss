@@ -28,4 +28,16 @@ body {
   .callout-title-inner {
     width: 100%;
   }
+
+  .callout[data-callout="abstract"] {
+    --callout-color: 18, 161, 2;
+    --callout-icon: lucide-clipboard-list;
+  }
+
+  .callout[data-callout="preprint"] {
+      /* --callout-color: 181, 161, 2; */
+      --callout-color: 189, 173, 0;
+      --callout-icon: lucide-pencil;
+  }
+
 }
