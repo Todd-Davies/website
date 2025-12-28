@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-27T22:14:45.755+00:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"pinned":true,"tags":["gardenEntry"],"updated":"2025-12-28T17:01:25.446+00:00"}
 ---
 
 I’m a final year PhD candidate in Competition Law at [University College London](https://www.ucl.ac.uk/laws/), supervised by [Ioannis Lianos](https://profiles.ucl.ac.uk/1800-ioannis-lianos), [Deni Mantzari](https://profiles.ucl.ac.uk/24171-despoina-mantzari) and [David Murrell](https://profiles.ucl.ac.uk/604-david-murrell).
@@ -14,9 +14,7 @@ Outside of that, I’m interested in all sorts of things. When not writing my th
 
 ---
 
-# [[4 Website/Blog/Blog\|Blog]]
-
-  
+# [[4 Website/Blog/Blog Home\|Blog]]
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blog/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
