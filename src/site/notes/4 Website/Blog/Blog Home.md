@@ -6,6 +6,7 @@
 I blog somewhat regularly. But not (usually) here. Instead, I like to write in various places across the internet. This page collates various posts into one place.
 
 # 2025
+- [[4 Website/Blog/Colophon\|Colophon]] (2025-12-28)
 - [[4 Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
 - [[4 Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (2025-11-28)
 - [[4 Website/Blog/The dark side of computational antitrust\|The Dark Side of Computational Antitrust: When AI is Used to Evade the Law]] (2025-10-28)
