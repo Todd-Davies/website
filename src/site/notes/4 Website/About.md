@@ -6,7 +6,7 @@ I’m a final year PhD candidate in Competition Law at [University College Londo
 
 My research asks how dominant companies harm the effective structure of competition. Drawing on theoretical ecology, it challenges the conventional approach to competition enforcement by proposing a new ontology of competition. In doing so, it provides a fresh interpretation of exclusionary abuse of dominance under Article 102 TFEU.
 
-Alongside my PhD, I work on a variety of topics related to EU competition law and digital market regulation. You can find my publications [[4 Website/Publications\|here]]. I also serve as a graduate lecturer at the [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
+Alongside my PhD, I work on a variety of areas related to EU competition law and digital market regulation. I frequently [[4 Website/Publications\|publish]], [[4 Website/Blog/Blog Home\|blog]] and appear in [[4 Website/Media\|media]] on those topics. I also serve as a graduate lecturer at the [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
 
 I hold a master’s degree in [Politics and Technology](https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc) from the [Technical University Munich](https://www.tum.de/en/) and a bachelor’s degree in [Computer Science](https://www.cs.manchester.ac.uk/) from [The University of Manchester](https://www.manchester.ac.uk). I previously worked for six years as a software engineer at [Google](https://google.com), mostly in the security and privacy space.
 
