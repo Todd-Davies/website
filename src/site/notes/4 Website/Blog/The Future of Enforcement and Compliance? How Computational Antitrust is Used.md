@@ -7,7 +7,7 @@ I got the chance to appear on the **[Our Curious Amalgam podcast](https://ourcur
 
 The hosts ([Matthew Hall](https://www.mcguirewoods.com/people/h/matthew-hall/) and [Anora Wang](https://www.arnoldporter.com/en/people/w/wang-anora)) and I had a discussion about the latest developments in computational antitrust, sparked by my previous post about the [[4 Website/Blog/The dark side of computational antitrust\|the "dark side" of computational antitrust]]. Among other topics, we covered:
 
-- What computational antitrust is.
+- What is computational antitrust?
 - The pros and cons of its adoption by competition authorities (where I caution about the hidden costs of enforcement).
 - The emergence of new AI-powered tools which can help companies "comply" with competition law (or do they help companies evade the law by limiting the production of evidence?).
 - What competition authorities might do to response.
