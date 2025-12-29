@@ -20,8 +20,8 @@ Recent posts:
 - [[4 Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (\-)
 - [[4 Website/Blog/The European Commission can and must act on excessive pricing\|The European Commission Can and Must Act on Excessive Pricing]] (\-)
 - [[4 Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (\-)
-- [[4 Website/Blog/Generative AI - Innovation or Infringement of competition law? (Podcast)\|Podcast - Generative AI: Innovation or Infringement of Competition Law]] (\-)
 - [[4 Website/Blog/Did Meta tie its AI assistant to WhatsApp?\|Did Meta Tie its AI Assistant to WhatsApp?]] (\-)
+- [[4 Website/Blog/Democracy or domination\|Democracy or Domination]] (\-)
 
 { .block-language-dataview}
 
