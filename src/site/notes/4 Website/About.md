@@ -25,20 +25,4 @@ Recent posts:
 
 { .block-language-dataview}
 
-# [[4 Website/Blog/Colophon\|Colophon]]
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/blog/colophon/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-This is a description of the tools I used to make this website. 
-
-I write in [Obsidian](https://obsidian.md) wherever possible. The exceptions are where I am forced to write in Microsoft Word (usually for journals) or Google Docs (usually to collaborate). Obsidian is excellent. It's really an "everything" app for writing, mainly because it's so extensible. The killer features for me are that it integrates well with my reference manager ([Zotero](https://www.zotero.org/)), and that the content is all [Markdown](https://en.wikipedia.org/wiki/Markdown) formatted which means it's possible to easily convert it to Word or LaTeX using [Pandoc](https://pandoc.org/).^[If you would like to know how to do this, please send me an email. I can write a blog post on it if there is demand.]
-
-Accordingly, this website is written and managed in Obsidian. My website is simply a collection of markdown files in a folder in my Obsidian Vault. I use the [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) plugin to publish the content, via [GitHub](https://github.com/Todd-Davies/website) to be deployed on [Vercel](https://vercel.com/) (as detailed in the obsidian-digital-garden [docs](https://dg-docs.ole.dev/)). I use the [Typewriter](https://github.com/crashmoney/obsidian-typewriter) theme, with some custom modifications.
-
-
-</div></div>
+For information on how this website is created and maintained, see the [[4 Website/Blog/Colophon\|Colophon]].
