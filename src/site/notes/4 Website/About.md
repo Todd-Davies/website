@@ -17,11 +17,11 @@ Outside of that, I’m interested in all sorts of things. When not writing my th
 # [[4 Website/Blog/Blog Home\|Blog]]
 
 Recent posts:
-- [[4 Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (\-)
-- [[4 Website/Blog/The European Commission can and must act on excessive pricing\|The European Commission Can and Must Act on Excessive Pricing]] (\-)
-- [[4 Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (\-)
-- [[4 Website/Blog/Did Meta tie its AI assistant to WhatsApp?\|Did Meta Tie its AI Assistant to WhatsApp?]] (\-)
-- [[4 Website/Blog/Democracy or domination\|Democracy or Domination]] (\-)
+- [[4 Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
+- [[4 Website/Blog/The European Commission can and must act on excessive pricing\|The European Commission Can and Must Act on Excessive Pricing]] (2025-10-08)
+- [[4 Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (2025-11-28)
+- [[4 Website/Blog/Did Meta tie its AI assistant to WhatsApp?\|Did Meta Tie its AI Assistant to WhatsApp?]] (2025-04-30)
+- [[4 Website/Blog/Democracy or domination\|Democracy or Domination]] (2025-01-23)
 
 { .block-language-dataview}
 
