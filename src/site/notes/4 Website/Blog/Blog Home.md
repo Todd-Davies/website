@@ -21,5 +21,6 @@ I blog somewhat regularly. But not (usually) here. Instead, I like to write in v
 { .block-language-dataview}
 # 2024
 - [[4 Website/Blog/Coordination across the channel I\|Coordination Across the Channel I]] (2024-11-25)
+- [[4 Website/Blog/Big Tech is harming Britain\|Big Tech is Harming Britain]] (2024-09-05)
 
 { .block-language-dataview}
