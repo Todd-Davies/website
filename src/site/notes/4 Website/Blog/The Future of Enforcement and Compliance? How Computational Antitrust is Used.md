@@ -10,3 +10,4 @@ I got the chance to appear on the [Our Curious Amalgam podcast](https://ourcurio
 - The emergence of new AI-powered tools which can help companies "comply" with competition law (or do they help companies evade the law by limiting the production of evidence?).
 - What competition authorities might do to response.
 
+You can find the episode [here](https://ourcuriousamalgam.com/episode/358-computational-antitrust/).
