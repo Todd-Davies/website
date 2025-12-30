@@ -4,3 +4,5 @@
 
 
 I appeared on a "Walk and Talk" [video](https://www.youtube.com/watch?v=9oCSds8kFcg) with the University of Manchester, showing what graduates of the B.Sc Computer Science programme go on to do in their careers.
+
+![video](https://www.youtube.com/watch?v=9oCSds8kFcg)
