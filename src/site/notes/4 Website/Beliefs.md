@@ -59,4 +59,4 @@ Markets are vital to [figuring out what society needs](https://cdn.mises.org/qja
 
 Comments? Get in touch via [email](mailto:todd@todddavi.es) or [anonymously](https://www.admonymous.co/daviest).
 
-Inspired by [Nat Friedman](https://nat.org/), [Salvatore Sanfilippo](http://invece.org/), [Anson Yu](https://ansonyu.me/beliefs) and others.
+Inspired by [Nat Friedman](https://nat.org/), [Salvatore Sanfilippo](http://invece.org/), [Anson Yu](https://ansonyu.me/beliefs), [Devon Zuegel](https://devonzuegel.com/page/about-me) and others.
