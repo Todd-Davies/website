@@ -12,4 +12,6 @@ The hosts ([Matthew Hall](https://www.mcguirewoods.com/people/h/matthew-hall/) a
 - The emergence of new AI-powered tools which can help companies "comply" with competition law (or do they help companies evade the law by limiting the production of evidence?).
 - What competition authorities might do to response.
 
-You can find the episode [here](https://ourcuriousamalgam.com/episode/358-computational-antitrust/).
+You can find the episode [here](https://ourcuriousamalgam.com/episode/358-computational-antitrust/), or listen to it directly below.
+
+<audio controls src="https://ourcuriousamalgam.com/download-episode/3655/358-computational-antitrust.mp3?stats-code=ocaPodcastSite&ref=download"></audio>
