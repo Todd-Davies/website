@@ -3,6 +3,12 @@
 ---
 
 
+**Summary**: The faster feedback comes in, the faster you can adjust your approach, and the fewer/less grave mistakes you'll make.
+{ #a58024}
+
+
+---
+
 It's important to do things quickly because you can receive feedback on your actions faster and adjust your approach accordingly. Tight feedback loops mean that "[you make contact with reality more frequently](https://nat.org/)". You learn faster that way because learning always occurs through feedback. In turn, you get to where you want to be faster.
 
 Speed is especially important when the world is changing around you. If you're too slow, your outputs will be obsolete by the time you're finished with them. You'll end up wasting time.

@@ -13,7 +13,25 @@ It's possible to critically assess your own thought patterns.  This lets you imp
 
 [[4 Website/Beliefs/Fast feedback loops are important\|Fast feedback loops are important]]
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beliefs/fast-feedback-loops-are-important/#a58024" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+**Summary**: The faster feedback comes in, the faster you can adjust your approach, and the fewer/less grave mistakes you'll make. 
+
+</div></div>
+
+
 [[4 Website/Beliefs/Wisdom is derived from experience\|Wisdom is derived from experience]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/beliefs/wisdom-is-derived-from-experience/#e5751e" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+**Summary**: Wisdom comes from having a had a wide variety of different experiences, not simply from getting older. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for a person being wise.  
+
+</div></div>
+
 
 [Self discipline is delayed gratification](https://twitter.com/startingfromnix/status/1607763222303756290)
 Delaying gratification is a form of self love. You must care enough for your future self to sacrifice your present self. Delayed gratification can be an end almost in itself.
@@ -60,7 +78,7 @@ We should all [[4 Website/Beliefs/Be more vegan\|be more vegan]].
 
 
 
-**TL;DR** Veganism doesn't have to be a binary yes/no thing. You can be *more* vegan, and that would be great for our earth, for all sorts of animals, and possibly for you too. 
+**Summary**: Veganism doesn't have to be a binary yes/no thing. You can be *more* vegan, and that would be great for our earth, for all sorts of animals, and possibly for you too. 
 
 </div></div>
 

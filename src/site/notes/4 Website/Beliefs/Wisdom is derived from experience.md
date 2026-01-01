@@ -3,7 +3,9 @@
 ---
 
 
-**TL;DR** Wisdom comes from having a had a wide variety of different experiences, not simply from getting older. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for a person being wise. 
+**Summary**: Wisdom comes from having a had a wide variety of different experiences, not simply from getting older. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for a person being wise. 
+{ #e5751e}
+
 
 ---
 
