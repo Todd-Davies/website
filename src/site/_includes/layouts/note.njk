@@ -6,6 +6,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   <head>
     <title>{% if meta.siteName %}{{ meta.siteName }} {% endif %} | {{ page.fileSlug }}</title>
     {%include "components/pageheader.njk"%}
+    {%include "components/blogheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
     {% endfor %}
