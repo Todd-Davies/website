@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/The dark side of computational antitrust.md","permalink":"/blog/the-dark-side-of-computational-antitrust/","title":"The Dark Side of Computational Antitrust: When AI is Used to Evade the Law","created":"2025-10-28T00:40:04-07:00"}
+{"title":"The Dark Side of Computational Antitrust: When AI is Used to Evade the Law","draft":false,"created":"2025-10-28T00:40:04-07:00","dg-publish":true,"dg-generate-embedded-metadata":true,"dg-path":"Blog/The dark side of computational antitrust.md","permalink":"/blog/the-dark-side-of-computational-antitrust/","dgPassFrontmatter":true}
 ---
 
 

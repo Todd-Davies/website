@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"CV.md","permalink":"/cv/"}
+{"dg-publish":true,"dg-home":false,"dg-hide":false,"dg-path":"CV.md","permalink":"/cv/","dgPassFrontmatter":true}
 ---
 
 Please find my [[cv.pdf|CV]] below, or download it [here](https://todddavi.es/cv.pdf).

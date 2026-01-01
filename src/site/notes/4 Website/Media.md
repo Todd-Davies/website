@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Media.md","permalink":"/media/","title":"Media","hide":true}
+{"title":"Media","description":"Media apperances by Todd Davies","dg-publish":true,"dg-hide":true,"dg-path":"Media.md","permalink":"/media/","hide":true,"dgPassFrontmatter":true}
 ---
 
 

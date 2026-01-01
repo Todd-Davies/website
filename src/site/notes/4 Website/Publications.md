@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Publications.md","permalink":"/publications/"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Publications.md","permalink":"/publications/","dgPassFrontmatter":true}
 ---
 
 All publications should be somehow accessible through open access. Please email me if you can’t find a link.

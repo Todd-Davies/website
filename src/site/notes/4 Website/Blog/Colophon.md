@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Colophon.md","permalink":"/blog/colophon/","title":"Colophon","created":"2025-12-28T00:40:04-07:00"}
+{"title":"Colophon","draft":false,"created":"2025-12-28T00:40:04-07:00","dg-publish":true,"dg-path":"Blog/Colophon.md","permalink":"/blog/colophon/","dgPassFrontmatter":true}
 ---
 
 
