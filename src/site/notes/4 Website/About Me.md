@@ -10,7 +10,7 @@ Alongside my PhD, I work on a variety of areas related to EU competition law and
 
 I hold a master’s degree in [Politics and Technology](https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc) from the [Technical University Munich](https://www.tum.de/en/) and a bachelor’s degree in [Computer Science](https://www.cs.manchester.ac.uk/) from [The University of Manchester](https://www.manchester.ac.uk). I previously worked for six years as a software engineer at [Google](https://google.com), mostly in the security and privacy space.
 
-Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[4 Website/Beliefs/Beliefs\|list of things I believe]].
+Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[4 Website/Beliefs/Some of my beliefs\|list of things I believe]].
 
 ---
 

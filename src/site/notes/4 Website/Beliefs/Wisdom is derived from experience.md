@@ -3,9 +3,11 @@
 ---
 
 
-Wisdom is distilled learning. We need to a lot of learning to be wise. Learning, in turn comes from experience. It is often assumed that experience comes with age, and hence, that wise people tend to be old (or vice versa). I don't think that's quite true. In my view wisdom only *correlates* with age. 
+**TL;DR** Wisdom comes from having a had a wide variety of different experiences. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for cultivating wisdom.
 
-Some people accumulate wisdom very slowly, while others seem to develop it far faster. Why? Because it's possible to live essentially the same day/month/year many times, and thus live similar experiences over and over again. Many people do. This is one reason why repetitive times in our lives, months revising for exams or years trapped in a boring job, feel like a blur. We just lived the same day over and over again.
+Wisdom is distilled learning. We need to a lot of learning to be wise. Learning, in turn, comes from experience. It is often assumed that experience comes with age, and hence, that wise people tend to be old (or vice versa). I don't think that's quite true. In my view wisdom only *correlates* with age. 
+
+Some people accumulate wisdom very slowly, while others seem to develop it far faster. Why? Because it's possible to live essentially the same day/month/year many times, and thus live similar experiences over and over again. Many people do. This is one reason why repetitive times in our lives, like months revising for exams or years trapped in a boring job, feel like a blur. We just lived the same day over and over again.
 
 Seneca makes essentially this point in *[On the Shortness of Life](https://dn790008.ca.archive.org/0/items/SenecaOnTheShortnessOfLife/Seneca%20on%20the%20Shortness%20of%20Life.pdf)*:
 
@@ -15,4 +17,4 @@ Another way to think about this is that while [[4 Website/Beliefs/Fast feedback 
 
 I've observed that people who I consider to be wise have often moved countries,^[This is an especially strong indicator in young people.] changed occupations, pursued eclectic side-projects, studied in multiple fields or cultivated curiosity. These things tend to expose them to all sorts of new and different experiences. I think it's those *new* experiences that ultimately give rise to wisdom.^[The [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) also comes to mind here. It's likely (although I have no proof) that 80% of our wisdom comes from 20% of our experiences.]
 
-Lastly, it's worth pointing out that if we want to learn and become wise, then we also have to pay attention. Exposure to an experience is not the same as *experiencing* that experience.^[Second-hand experiences from books, videos, podcasts etc. are less valuable for this reason. It's the hurly-burly of day-to-day life which has the potential to teach us the most.] There's little point visiting a new country if you spend the whole time reading in your hotel room (or worse, on social media). To learn from experiences, we must be "present" enough to actually live them.^[I've found that regular meditation helps a lot with this.]
+Lastly, it's worth pointing out that if we want to learn and become wise, then we also have to pay attention. Exposure to an experience is not the same as *experiencing* that experience. For this reason, second-hand experiences from books, videos, podcasts etc. tend to be less valuable.^[An exception is where you actively engage with these media, such as in a discussion group.] It's the hurly-burly of day-to-day life which has the potential to teach us the most. There's little point visiting a new country if you spend the whole time reading in your hotel room (or worse, on social media). To learn from experiences, we must be "present" enough to actually live them.^[I've found that regular meditation helps a lot with this.]
