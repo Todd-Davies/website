@@ -10,11 +10,9 @@ Doing great work requires motivation. It's easier to be motivated when you like 
 [Self examination is important](https://www.goodreads.com/en/book/show/29568959)
 It's possible to critically assess your own thought patterns.  This lets you improve how you think.
 
-[Speed is important](https://nat.org/)
-You learn via receiving feedback from your actions. The quicker you execute, the more feedback you'll generate. This is why we learn quickly while playing; there's usually a rapid feedback loop.
+[[4 Website/Beliefs/Fast feedback loops are important\|Fast feedback loops are important]]
 
-[Wisdom only correlates with age](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life)
-Wisdom comes from distilling knowledge out of experience. Experience correlates with age. But it's possible to live essentially the same year many times. Each 'repeated' experience is likely to generate less feedback, and less wisdom.
+[[4 Website/Beliefs/Wisdom is derived from experience\|Wisdom is derived from experience]]
 
 [Self discipline is delayed gratification](https://twitter.com/startingfromnix/status/1607763222303756290)
 Delaying gratification is a form of self love. You must care enough for your future self to sacrifice your present self. Delayed gratification can be an end almost in itself.
@@ -54,6 +52,8 @@ I broadly adhere to a [virtue ethic](https://en.wikipedia.org/wiki/Virtue_ethics
 
 [Market Socialism is the most promising political economic system](https://en.wikipedia.org/wiki/Market_socialism)
 Markets are vital to [figuring out what society needs](https://cdn.mises.org/qjae5_3_3.pdf). But free market capitalism leads to exploitation, dispossession, and wealth accumulation. Market socialism aims to have competitive markets with minimal (or dispersed) private ownership.
+
+We should all [[4 Website/Beliefs/Be more vegan\|be more vegan]].
 
 ----
 
