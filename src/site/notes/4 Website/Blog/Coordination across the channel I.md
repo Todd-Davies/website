@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Coordination across the channel I.md","permalink":"/blog/coordination-across-the-channel-i/","title":"Coordination Across the Channel I","created":"2024-11-25T00:40:04-07:00"}
+{"title":"Coordination Across the Channel I","draft":false,"created":"2024-11-25T00:40:04-07:00","dg-publish":true,"dg-generate-embedded-metadata":true,"dg-path":"Blog/Coordination across the channel I.md","permalink":"/blog/coordination-across-the-channel-i/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Big Tech is harming Britain.md","permalink":"/blog/big-tech-is-harming-britain/","title":"Big Tech is Harming Britain","created":"2024-09-05T00:40:04-07:00"}
+{"title":"Big Tech is Harming Britain","draft":false,"created":"2024-09-05T00:40:04-07:00","dg-generate-embedded-metadata":true,"dg-publish":true,"dg-hide":false,"dg-pinned":false,"dg-path":"Blog/Big Tech is harming Britain.md","permalink":"/blog/big-tech-is-harming-britain/","dgPassFrontmatter":true}
 ---
 
 

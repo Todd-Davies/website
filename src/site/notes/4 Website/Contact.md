@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Contact.md","permalink":"/contact/"}
+{"dg-publish":true,"dg-home":false,"dg-path":"Contact.md","permalink":"/contact/","dgPassFrontmatter":true}
 ---
 
 You can contact me in the following ways:

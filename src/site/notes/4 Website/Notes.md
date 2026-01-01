@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes.md","permalink":"/notes/","hide":true}
+{"dg-publish":true,"dg-home":false,"dg-hide":true,"dg-path":"Notes.md","permalink":"/notes/","hide":true,"dgPassFrontmatter":true}
 ---
 
 

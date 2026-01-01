@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Blog Home.md","dg-permalink":"blog","permalink":"/blog/","title":"Blog Home","pinned":true}
+{"title":"Blog Home","description":"Todd's blog, mostly about developments in EU competition law and regulation, but also somethings about other things.","dg-publish":true,"dg-pinned":true,"dg-permalink":"blog","dg-hide":false,"dg-path":"Blog/Blog Home.md","permalink":"/blog/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
