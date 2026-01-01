@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used.md","permalink":"/blog/the-future-of-enforcement-and-compliance-how-computational-antitrust-is-used/","title":"Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used","tags":["media"],"created":"2025-12-29T00:40:04-07:00"}
+{"title":"Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used","draft":false,"created":"2025-12-29T00:40:04-07:00","dg-publish":true,"dg-generate-embedded-metadata":true,"tags":["media"],"outlet-title":"Our Curious Amalgam (American Bar Association's Antitrust Podcast)","outlet-link":"https://ourcuriousamalgam.com/episode/","media-link":"https://ourcuriousamalgam.com/episode/358-computational-antitrust/","dg-path":"Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used.md","permalink":"/blog/the-future-of-enforcement-and-compliance-how-computational-antitrust-is-used/","dgPassFrontmatter":true}
 ---
 
 
