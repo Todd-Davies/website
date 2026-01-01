@@ -9,7 +9,7 @@ For the uninitiated, veganism is about steering away from products derived from 
 
 # Why be more vegan?
 
-I originally went vegan because of our earth systems crisis; the production of meat and dairy is carbon intensive, uses huge amounts of water and land,^[A common rejonder to the point that animal farming uses water and land is that crops do too. Yet to farm an animal you must also farm the crops to feed that animal before you eat it. In terms of calories and nutrients, the meat is the middleman. Cutting out that middleman lessens the amount of resources required to produce the same amount of food.] as well as damaging lakes and oceans through nitrogen and phosphorous runoff. The science is very clear, cutting down on animal-derived products helps a lot.^[Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems, Willett, Walter et al., The Lancet, Volume 393, Issue 10170, 447 - 492.]
+I originally went vegan because of our earth systems crisis; the production of meat and dairy is carbon intensive, uses huge amounts of water and land,^[A common rejonder to the point that animal farming uses water and land is that crops do too. Yet to farm an animal you must also farm the crops to feed that animal before you eat it. In terms of calories and nutrients, the meat is the middleman. Cutting out that middleman lessens the amount of resources required to produce the same amount of food.] as well as damaging lakes and oceans through nitrogen and phosphorous runoff. The science is very clear, cutting down on animal-derived products helps a lot.^[[Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/abstract), Willett, Walter et al., The Lancet, Volume 393, Issue 10170, 447 - 492.]
 
 After being vegan for a few years (I started in January 2019), I came to appreciate the other, moral reason for going vegan: consuming products derived from animals causes great suffering. Prior to making the switch, I'd never really considered the utterly miserable lives that most farmed animals live. Looking back, I think it generated too much cognitive dissonance; I didn't want to think of myself as participating in so much violence and cruelty.^[I wanted to spare you the details in the main text, but consider the following. TODO] After making the decision to be vegan, I could suddenly grok that moral argument. It was like a way of thinking about the world, and my actions in it, was "unlocked". 
 
@@ -29,7 +29,7 @@ One unexpected benefit of being vegan is it's _much_ easier to choose in restaur
 
 Sometimes, people will get annoyed/irritated when they see me - a self-described vegan - eat something non-vegan.^[This only seems to happen with eating, not with clothes, despite the fact that I wear leather shoes and wool quite often. I guess people don't make the connection with clothes as easily?] My working theory for why, is that me eating non-vegan food breaks the vegan/non-vegan binary that people have in their heads, which in turn illustrates that they too could reduce their consumption of animal products without forgoing them entirely and causes them cognitive dissonance.
 
-Occasionally people will mention cost. Is veganism less or more expensive than non-veganism? I'm honestly not sure. I think you can live cheaply or expensively regardless of whether you eat animal products or not. Of course, animal agriculture is widely subsidised by the state, so it's expensive in that sense.^[https://www.oxfordmartin.ox.ac.uk/blog/meat-and-dairy-gobble-up-farming-subsidies] Vegan cheese (the good kind) is expensive.
+Occasionally people will mention cost. Is veganism less or more expensive than non-veganism? I'm honestly not sure. I think you can live cheaply or expensively regardless of whether you eat animal products or not. Of course, animal agriculture is [widely subsidised](https://www.oxfordmartin.ox.ac.uk/blog/meat-and-dairy-gobble-up-farming-subsidies) by the state, so it's expensive in that sense. Vegan cheese (the good kind) is expensive.
 
 ## Health
 
@@ -39,11 +39,11 @@ Personally, I've been vegan for 7 years and feel great. I have lots of energy, a
 
 ## Culture
 
-Sometimes our cultures involve non-vegan stuff. That can be tricky to navigate. A strict adherence to veganism can mean that you disappoint others, especially during holidays or family visits. It can also mean that you miss out on cultural experiences, like trying a particular national dish. My answer to this is: find a balance, don't sweat the small stuff, and when in doubt, just eat it. Culture is important, as are relationships with loved ones.
+Sometimes our cultures involve non-vegan stuff. In the UK, [Christmas dinners](https://en.wikipedia.org/wiki/Christmas_dinner#United_Kingdom) come to mind. That can be tricky to navigate. A strict adherence to veganism can mean that you disappoint others, especially during holidays or family visits. It can also mean that you miss out on cultural experiences, like trying a particular national dish. My answer to this is: find a balance, don't sweat the small stuff, and when in doubt, just eat it. Culture is important, as are relationships with loved ones.
 
 ## Taste
 
-Meat, cheese, yoghurt, eggs and butter all taste nice. I agree. Sometimes they are delicious! As above, you don't have to be a saint. You can eat them occasionally. But if you must, have them as a treat!
+Meat, cheese, yoghurt, eggs and butter all taste nice. I agree. Sometimes they are delicious! But as above, you don't have to be a saint. You can eat them occasionally. But if you must, have them as a treat!
 
 ## Sustainability
 
@@ -55,6 +55,8 @@ Of course, you could live a hugely unsustainable life as vegan. Yes, some vegan 
 
 # Uncomfortable thoughts about animal agriculture
 
+These are saved until the end so that you don't have to read them unless you want to.
+
 - Chickens grown for meat in factory farms are usually slaughtered at just 5-10 weeks old. They've been bred to grow so fast that they're essentially full sized by then. Unfortunately, their incredibly high rate of growth causes them to have lots of painful health problems.^[Bessei, W. (2006). Welfare of broilers: a review. _World's Poultry Science Journal_, _62_(3), 455-466.]
-- Dairy cows produce milk for around ten months after having given birth.^[https://www.rspca.org.uk/adviceandwelfare/farm/dairy] As such, they go through a continual cycle of being artificially inseminated, giving birth, being immediately separated from their calf,^[https://en.wikipedia.org/wiki/Cow-calf_separation; Insemination usually occurs about three months after giving birth to kick the cycle off again. https://www.ciwf.com/farmed-animals/cows/dairy-cows/] and then being milked until they stop producing it.
+- Dairy cows produce milk for around [ten months after having given birth](https://www.rspca.org.uk/adviceandwelfare/farm/dairy). As such, they go through a continual cycle of being artificially inseminated, giving birth, being immediately [separated from their calf](https://en.wikipedia.org/wiki/Cow-calf_separation), and then being milked until they stop producing it. Re-insemination usually occurs part-way through that cycle, about [three months after giving birth](https://www.ciwf.com/farmed-animals/cows/dairy-cows/).
 - Much of the meat production sector is highly monopolised by big companies. Individual farmers are relatively powerless against them, and often end up being forced into debt and trapped in exploitative contracts.^[https://civileats.com/2022/05/02/op-ed-chicken-farmers-raw-deal-monopoly-consolidation-meat-industry-beef-pork-prices-inflation/; https://farmaction.us/behind-the-brands-the-meatpacking-monopoly-and-the-illusion-of-choice/]
