@@ -4,6 +4,8 @@
 
 
 **TL;DR** Veganism doesn't have to be a binary yes/no thing. You can be *more* vegan, and that would be great for our earth, for all sorts of animals, and possibly for you too.
+{ #3aad16}
+
 
 ---
 
