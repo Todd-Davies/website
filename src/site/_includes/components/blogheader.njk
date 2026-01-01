@@ -1,0 +1,19 @@
+{% if dgGenerateEmbeddedMetadata %}
+    <meta name="generator" content="WordPress">
+    <meta name="citation_author" content="Davies, Todd">
+    <meta name="citation_publication_date" content="{{ created }}">
+    <meta name="citation_language" content="en">
+    <meta name="citation_abstract" content="{{ page.excerpt }}">
+    
+
+    <meta property="og:site_name" content="Todd Davies' Blog">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:url" content="{{ page.url }}">
+    <meta property="og:description" content="{{ page.excerpt }}">
+    <meta property="og:locale" content="en_GB">
+
+    <meta property="article:published_time" content="{{ created }}">
+    <meta property="article:modified_time" content="{{ updated }}">
+
+{% endif %}
