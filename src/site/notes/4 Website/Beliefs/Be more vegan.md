@@ -3,6 +3,10 @@
 ---
 
 
+**TL;DR** Veganism doesn't have to be a binary yes/no thing. You can be *more* vegan, and that would be great for our earth, for all sorts of animals, and possibly for you too.
+
+---
+
 The first thing I'll say about being vegan is that you don't have to be a saint. Veganism isn't binary. It's a sliding scale, and very few people sit at the extreme poles. Here, I want to make the case that we should slide our lifestyles the vegan end of that scale.
 
 For the uninitiated, veganism is about steering away from products derived from animals. It's like vegetarianism in the sense that vegans won't eat meat, but also includes animal-derived products such as cheese, milk and eggs. Outside of food (and depending on how vegan you are) it would also include leather and wool.

@@ -3,7 +3,9 @@
 ---
 
 
-**TL;DR** Wisdom comes from having a had a wide variety of different experiences. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for cultivating wisdom.
+**TL;DR** Wisdom comes from having a had a wide variety of different experiences, not simply from getting older. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for a person being wise. 
+
+---
 
 Wisdom is distilled learning. We need to a lot of learning to be wise. Learning, in turn, comes from experience. It is often assumed that experience comes with age, and hence, that wise people tend to be old (or vice versa). I don't think that's quite true. In my view wisdom only *correlates* with age. 
 
