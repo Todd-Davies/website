@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"dg-show-inline-title":true,"tags":["beliefs"],"dg-note-icon":1,"dg-show-local-graph":true,"dg-show-tags":true,"dg-show-backlinks":true,"dg-enable-search":true,"updated":"2025-12-30","dg-path":"Beliefs/Fast feedback loops are important.md","permalink":"/beliefs/fast-feedback-loops-are-important/","hide":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"dg-show-inline-title":true,"tags":["beliefs"],"dg-note-icon":1,"dg-show-local-graph":true,"dg-show-tags":true,"dg-show-backlinks":true,"dg-enable-search":true,"updated":"2025-12-30","dg-path":"Fast feedback loops are important.md","permalink":"/fast-feedback-loops-are-important/","hide":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 

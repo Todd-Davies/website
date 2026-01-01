@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"dg-show-inline-title":true,"tags":["beliefs"],"dg-note-icon":1,"dg-show-local-graph":true,"dg-show-tags":true,"dg-show-backlinks":true,"dg-enable-search":true,"dg-show-toc":true,"updated":"2026-01-01","dg-path":"Beliefs/Be more vegan.md","permalink":"/beliefs/be-more-vegan/","hide":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-hide":true,"dg-show-inline-title":true,"tags":["beliefs"],"dg-note-icon":1,"dg-show-local-graph":true,"dg-show-tags":true,"dg-show-backlinks":true,"dg-enable-search":true,"dg-show-toc":true,"updated":"2026-01-01","dg-path":"Be more vegan.md","permalink":"/be-more-vegan/","hide":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 
