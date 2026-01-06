@@ -1,5 +1,5 @@
 ---
-{"title":"Coordination Across the Channel II","draft":false,"created":"2025-07-18T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"generateEmbeddedMetadata":true,"tags":["Competition Law","Brexit","Institutions"],"dg-path":"Coordination across the channel II.md","permalink":"/coordination-across-the-channel-ii/","hide":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"title":"Coordination Across the Channel II","draft":false,"created":"2025-07-18T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-tog":true,"generateEmbeddedMetadata":true,"tags":["Competition Law","Brexit","Institutions"],"dg-path":"Coordination across the channel II.md","permalink":"/coordination-across-the-channel-ii/","hide":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 
