@@ -1,5 +1,5 @@
 ---
-{"title":"Democracy or Domination","draft":false,"created":"2025-01-23T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"dg-path":"Blog/Democracy or domination.md","permalink":"/blog/democracy-or-domination/","hide":true,"dgPassFrontmatter":true}
+{"title":"Democracy or Domination","draft":false,"created":"2025-01-23T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"dg-path":"Democracy or domination.md","permalink":"/democracy-or-domination/","hide":true,"dgPassFrontmatter":true}
 ---
 
 

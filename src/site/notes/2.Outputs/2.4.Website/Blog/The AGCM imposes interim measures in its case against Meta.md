@@ -1,5 +1,5 @@
 ---
-{"title":"The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI","draft":false,"created":"2025-11-28T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"dg-path":"Blog/The AGCM imposes interim measures in its case against Meta.md","permalink":"/blog/the-agcm-imposes-interim-measures-in-its-case-against-meta/","hide":true,"dgPassFrontmatter":true}
+{"title":"The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI","draft":false,"created":"2025-11-28T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"dg-path":"The AGCM imposes interim measures in its case against Meta.md","permalink":"/the-agcm-imposes-interim-measures-in-its-case-against-meta/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
