@@ -10,13 +10,18 @@ Alongside my PhD, I work on a variety of areas related to EU competition law and
 
 I hold a master’s degree in [Politics and Technology](https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc) from the [Technical University Munich](https://www.tum.de/en/) and a bachelor’s degree in [Computer Science](https://www.cs.manchester.ac.uk/) from [The University of Manchester](https://www.manchester.ac.uk). I previously worked for six years as a software engineer at [Google](https://google.com), mostly in the security and privacy space.
 
-Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[4.Website/Beliefs/Beliefs and life tips\|list of things I believe]].
+Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[4.Website/Beliefs/Beliefs and advice\|list of things I believe]].
 
 ---
 
 # [[4.Website/Blog/Blog Home\|Blog]]
 
 Recent posts:
+- [[4.Website/Blog/How to write academic papers in Obsidian\|How to write academic papers in Obsidian]] (2026-01-02)
+- [[4.Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
+- [[4.Website/Blog/Colophon\|Colophon]] (2025-12-28)
+- [[4.Website/Blog/'Walk and Talk' with Duncan Hull at the University of Manchester\|'Walk and Talk' with Duncan Hull at the University of Manchester]] (2025-12-15)
+- [[4.Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
 
 { .block-language-dataview}
 
