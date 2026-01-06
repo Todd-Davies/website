@@ -1,0 +1,8 @@
+---
+{"title":"Big Tech is Harming Britain","draft":false,"created":"2024-09-05T00:40:04-07:00","generateEmbeddedMetadata":true,"dg-publish":true,"dg-hide":false,"dg-pinned":false,"permalink":"/4-website/blog/big-tech-is-harming-britain/","dgPassFrontmatter":true}
+---
+
+
+ Originally published on the [Comment Central](https://commentcentral.co.uk/big-tech-is-harming-britain).
+
+> Big Tech firms degrade our information environment, both within and beyond the boundaries of their platforms. Dominant firms describe themselves as providing walled gardens which are safe and secure, and [claim to invest heavily](https://fortune.com/2021/09/21/facebook-says-it-has-spent-13-billion-on-safety-and-security-efforts-since-2016/) in combating problematic content. Yet aside from [scandals](https://www.nytimes.com/2021/11/18/technology/meta-instagram-investigation-teens.html) [suggesting](https://www.theguardian.com/technology/2023/sep/09/x-twitter-bots-republican-primary-debate-tweets-increase) [otherwise](https://www.theguardian.com/technology/2024/apr/29/eu-to-investigate-meta-over-election-misinformation-ahead-of-june-polls), there is reason to be sceptical. [Inflammatory and addictive content drives levels of engagement and, thus advertising revenue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4830305) on platforms. Large platforms are also [juicy targets for scammers and spammers](https://danluu.com/diseconomies-scale/), and need to rely on automated systems to moderate content at such a vast scale. By virtue of their monopoly power, these firms are also unlikely to be responsive to customer demands for higher quality content.
