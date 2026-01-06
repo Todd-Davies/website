@@ -1,5 +1,5 @@
 ---
-{"title":"Blog Home","description":"Todd's blog, mostly about developments in EU competition law and regulation, but also somethings about other things.","dg-publish":true,"dg-pinned":true,"dg-permalink":"blog","dg-hide":false,"dg-path":"Blog.md","permalink":"/blog/","pinned":true,"dgPassFrontmatter":true}
+{"title":"Blog","description":"Todd's blog, mostly about developments in EU competition law and regulation, but also somethings about other things.","dg-publish":true,"dg-pinned":true,"dg-permalink":"blog","dg-hide":false,"dg-path":"Blog.md","permalink":"/blog/","pinned":true,"dgPassFrontmatter":true}
 ---
 
 
