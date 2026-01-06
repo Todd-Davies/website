@@ -1,5 +1,5 @@
 ---
-{"title":"Coordination Across the Channel II","draft":false,"created":"2025-07-18T00:40:04-07:00","dg-publish":true,"generateEmbeddedMetadata":true,"dg-path":"Blog/Coordination across the channel II.md","permalink":"/blog/coordination-across-the-channel-ii/","dgPassFrontmatter":true}
+{"title":"Coordination Across the Channel II","draft":false,"created":"2025-07-18T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"dg-path":"Blog/Coordination across the channel II.md","permalink":"/blog/coordination-across-the-channel-ii/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
