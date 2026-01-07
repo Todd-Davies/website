@@ -6,6 +6,7 @@ All publications should be somehow accessible through open access. Please email 
 
 **Key**:
 - Green: published in peer reviewed journals
+- Blue: book chapters
 - Yellow: preprints/in review
 
 # 2025
@@ -15,6 +16,9 @@ All publications should be somehow accessible through open access. Please email 
 
 > [!abstract]- Davies, T., & Georgieva, Z. (2025). [Google AdTech: Break Up or Break Out?](https://doi.org/10.36633/ulr.1113)  Utrecht Law Journal - Special Issue on Modern Bigness.
 > We ask can’t consumers choose which advertising network they would like to use with Google’s zero-priced online platforms? Our answer is that by integrating its advertising network into its popular online platforms, Google has foreclosed competition in the online advertising market by denying rival supply-side ad networks access to its customer base. We propose a remedy called marketised monetisation, which is complementary to the break-up proposed by the Commission. Marketised monetisation would introduce an interoperability layer between Google’s popular online services and third-party ad networks to make the online advertising market more contestable. The interoperability layer would allow consumers to choose which firm should monetise their usage of Google’s zero-priced products and services.
+
+> [!note]- Todd Davies and Spencer Cohen, ‘[Democracy or Domination: The Role of Competition Law in the Face of Oligarchy](https://discovery.ucl.ac.uk/id/eprint/10212184/)’ in Alberto Alemanno and Jacquelyn D. Veraldi (eds), [_Musk, Power, and the EU: Can EU Law Tackle the Challenges of Unchecked Plutocracy?_](https://verfassungsblog.de/book/musk-power-and-the-eu-can-eu-law-tackle-the-challenges-of-unchecked-plutocracy/) (1st edn, Verfassungsbooks 2025)
+> Democracy in Europe is under threat. Competition law, given its history and potential as a tool of anti-domination, is a natural fit to protect and revitalise democracy in Europe. Yet the protection of democracy is habitually said to fall outside the proper scope of competition enforcement. Spencer Cohen and I show how competition law can, through a recalibration of its error cost framework, be used to safeguard against economic domination in markets.
 
 > [!preprint]- Davies, T. [Market Diversity and Market Churn: Measures of Competitive Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185363) 
 > Measuring competition is a crucial endeavour in competition law. Structural metrics are a vital source of information about market competition; yet current measures suffer from several flaws and are less developed than those employed in other fields. This paper draws from the literature in theoretical ecology to propose novel metrics of market diversity. These metrics quantify the effective number of competitors in a market. Unlike existing metrics used in competition law and scholarship, they do so in a manner variably sensitive to the size of firms, and can take into account both intra-market product differentiation as well as inter-market variation such as between products, geographies and over time.
