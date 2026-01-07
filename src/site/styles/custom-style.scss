@@ -40,4 +40,14 @@ body {
       --callout-icon: lucide-pencil;
   }
 
+  .callout[data-callout="chapter"] {
+      /* --callout-color: 181, 161, 2; */
+      --callout-color: 120, 120, 120;
+      --callout-icon: lucide-quote;
+  }
+
+  .callout-icon {
+    display: none;
+  }
+
 }
