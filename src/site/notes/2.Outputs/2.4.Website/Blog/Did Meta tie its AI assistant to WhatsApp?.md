@@ -1,5 +1,5 @@
 ---
-{"title":"Did Meta Tie its AI Assistant to WhatsApp?","draft":false,"created":"2025-04-30T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-toc":true,"tags":["Competition Law","Article 102"],"generateEmbeddedMetadata":true,"dg-path":"Did Meta tie its AI assistant to WhatsApp?.md","permalink":"/did-meta-tie-its-ai-assistant-to-whats-app/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"title":"Did Meta Tie its AI Assistant to WhatsApp?","draft":false,"created":"2025-04-30T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-toc":true,"tags":["CompetitionLaw","Article102"],"generateEmbeddedMetadata":true,"dg-path":"Did Meta tie its AI assistant to WhatsApp?.md","permalink":"/did-meta-tie-its-ai-assistant-to-whats-app/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 

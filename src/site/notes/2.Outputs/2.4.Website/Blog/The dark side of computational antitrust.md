@@ -1,5 +1,5 @@
 ---
-{"title":"The Dark Side of Computational Antitrust: When AI is Used to Evade the Law","draft":false,"created":"2025-10-28T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-toc":true,"tags":["Computational Antitrust","Competition Law"],"generateEmbeddedMetadata":true,"dg-path":"The dark side of computational antitrust.md","permalink":"/the-dark-side-of-computational-antitrust/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"title":"The Dark Side of Computational Antitrust: When AI is Used to Evade the Law","draft":false,"created":"2025-10-28T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-toc":true,"tags":["ComputationalAntitrust","CompetitionLaw"],"generateEmbeddedMetadata":true,"dg-path":"The dark side of computational antitrust.md","permalink":"/the-dark-side-of-computational-antitrust/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 

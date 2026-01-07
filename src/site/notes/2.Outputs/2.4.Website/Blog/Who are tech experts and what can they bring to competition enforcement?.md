@@ -1,5 +1,5 @@
 ---
-{"title":"Who are Tech Experts and What Can They Bring to Competition Enforcement?","draft":false,"created":"2025-12-11T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-toc":true,"generateEmbeddedMetadata":true,"tags":["Competition Law","Expertise"],"dg-path":"Who are tech experts and what can they bring to competition enforcement?.md","permalink":"/who-are-tech-experts-and-what-can-they-bring-to-competition-enforcement/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"title":"Who are Tech Experts and What Can They Bring to Competition Enforcement?","draft":false,"created":"2025-12-11T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"dg-show-toc":true,"generateEmbeddedMetadata":true,"tags":["CompetitionLaw","Expertise"],"dg-path":"Who are tech experts and what can they bring to competition enforcement?.md","permalink":"/who-are-tech-experts-and-what-can-they-bring-to-competition-enforcement/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 
