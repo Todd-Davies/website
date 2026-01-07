@@ -9,7 +9,7 @@ We should strive to [[2.Outputs/2.4.Website/Beliefs/Be more vegan\|be more vegan
 
 ---
 
-The first thing I'll say about being vegan is that you don't have to be a saint. Veganism is a sliding scale, and relatively few people sit at the extreme poles. Here, I want to make the case that we should slide our lifestyles the vegan end of that scale.
+The first thing I'll say about being vegan is that you don't have to be a saint. Veganism is a sliding scale, and relatively few people sit at the extreme poles. I'm mostly vegan, with a few exceptions here and there. Here, I want to make the case that we should slide our lifestyles the vegan end of that scale.
 
 For the uninitiated, veganism is about steering away from products derived from animals. It's like vegetarianism in the sense that vegans won't eat meat, but also includes animal-derived products such as cheese, milk and eggs. Outside of food (and depending on how vegan you are) it would also include leather and wool.
 
