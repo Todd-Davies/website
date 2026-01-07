@@ -3,21 +3,23 @@
 ---
 
 
-**Summary**: Veganism doesn't have to be a binary yes/no thing. You can be *more* vegan, and that would be great for our earth, for all sorts of animals, and possibly for you too.
+We should strive to [[2.Outputs/2.4.Website/Beliefs/Be more vegan\|be more vegan]]. It doesn't have to be a binary yes/no thing, it's great for our earth, for all sorts of animals, and possibly for you too.
 { #3aad16}
 
 
 ---
 
-The first thing I'll say about being vegan is that you don't have to be a saint. Veganism isn't binary. It's a sliding scale, and very few people sit at the extreme poles. Here, I want to make the case that we should slide our lifestyles the vegan end of that scale.
+The first thing I'll say about being vegan is that you don't have to be a saint. Veganism is a sliding scale, and relatively few people sit at the extreme poles. I'm mostly vegan, with a few exceptions here and there. Here, I want to make the case that you should slide your lifestyle towards the vegan end of that scale.
 
 For the uninitiated, veganism is about steering away from products derived from animals. It's like vegetarianism in the sense that vegans won't eat meat, but also includes animal-derived products such as cheese, milk and eggs. Outside of food (and depending on how vegan you are) it would also include leather and wool.
 
 # Why be more vegan?
 
-I originally went vegan because of our earth systems crisis; the production of meat and dairy is carbon intensive, uses huge amounts of water and land,^[A common rejonder to the point that animal farming uses water and land is that crops do too. Yet to farm an animal you must also farm the crops to feed that animal before you eat it. In terms of calories and nutrients, the meat is the middleman. Cutting out that middleman lessens the amount of resources required to produce the same amount of food.] as well as damaging lakes and oceans through nitrogen and phosphorous runoff. The science is very clear, cutting down on animal-derived products helps a lot.^[[Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/abstract), Willett, Walter et al., The Lancet, Volume 393, Issue 10170, 447 - 492.]
+I originally went vegan because the production of meat and dairy causes all sorts of stress on our planet. It's carbon intensive, uses huge amounts of water and land,^[A common rejonder to the point that animal farming uses water and land is that crops do too. Yet to farm an animal you must also farm the crops to feed that animal before you eat it. In terms of calories and nutrients, the meat is the middleman. Cutting out that middleman lessens the amount of resources required to produce the same amount of food.] and damages lakes and oceans through nitrogen and phosphorous runoff. In short, it is exacerbating the earth systems crisis we now face. The science is very clear, cutting down on animal-derived products helps a lot.^[[Food in the Anthropocene: the EAT–Lancet Commission on healthy diets from sustainable food systems](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/abstract), Willett, Walter et al., The Lancet, Volume 393, Issue 10170, 447 - 492.]
 
-After being vegan for a few years (I started in January 2019), I came to appreciate the other, moral reason for going vegan: consuming products derived from animals causes great suffering. Prior to making the switch, I'd never really considered the utterly miserable lives that most farmed animals live. Looking back, I think it generated too much cognitive dissonance; I didn't want to think of myself as participating in so much violence and cruelty.^[I wanted to spare you the details in the main text, but consider the following. TODO] After making the decision to be vegan, I could suddenly grok that moral argument. It was like a way of thinking about the world, and my actions in it, was "unlocked". 
+After being vegan for a few years (I started in January 2019), I came to appreciate another other reason for going vegan: a moral one. Consuming products derived from animals causes great suffering. Prior to making the switch, I'd never really considered the utterly miserable lives that most farmed animals live. Asked what I thought about eating meat, I once replied that "animals are dumb and taste nice."
+
+Looking back, I think that the reality of how production of animal products seriously generated too much cognitive dissonance for me; I didn't want to think of myself as participating in so much violence and cruelty.^[I wanted to spare you the details in the main text, but consider the following. TODO] It was easier to ignore it altogether. That mental 'block' dissolved after making the decision to be vegan. I found myself suddenly much more able to engage with how meat, dairy and other animal products were actually produced. It was like a way of thinking about the world, and my actions in it, was "unlocked". They say that [[2.Outputs/2.4.Website/Beliefs/Appetite comes when you eat\|Appetite comes when you eat]], and it was only after going vegan that I begun to understand the moral argument for doing so.
 
 With regards to both of these points, there is no requirement to be absolute. As your consumption of animal-based products drops, so will the material strain on planet earth and suffering of animals that you have indirectly caused. I believe those two reasons alone are enough to sustain a strong argument to become more vegan. 
 

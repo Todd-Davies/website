@@ -1,5 +1,5 @@
 ---
-{"title":"The European Commission Can and Must Act on Excessive Pricing","draft":false,"created":"2025-10-08T00:40:04-07:00","dg-publish":true,"generateEmbeddedMetadata":true,"dg-path":"Blog/The European Commission can and must act on excessive pricing.md","permalink":"/blog/the-european-commission-can-and-must-act-on-excessive-pricing/","dgPassFrontmatter":true}
+{"title":"The European Commission Can and Must Act on Excessive Pricing","draft":false,"created":"2025-10-08T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-tags":true,"generateEmbeddedMetadata":true,"tags":["Competition Law","State Aid"],"dg-path":"The European Commission can and must act on excessive pricing.md","permalink":"/the-european-commission-can-and-must-act-on-excessive-pricing/","hide":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 

@@ -6,23 +6,23 @@ I’m a final year PhD candidate in Competition Law at [University College Londo
 
 My research asks how dominant companies harm the effective structure of competition. Drawing on theoretical ecology, it challenges the conventional approach to competition enforcement by proposing a new ontology of competition. In doing so, it provides a fresh interpretation of exclusionary abuse of dominance under Article 102 TFEU.
 
-Alongside my PhD, I work on a variety of areas related to EU competition law and digital market regulation. I frequently [[4 Website/Publications\|publish]], [[4 Website/Blog/Blog Home\|blog]] and appear in [[4 Website/Media\|media]] on those topics. I also serve as a graduate lecturer at the [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
+Alongside my PhD, I work on a variety of areas related to EU competition law and digital market regulation. I frequently [[2.Outputs/2.4.Website/Publications\|publish]], [[2.Outputs/2.4.Website/Blog/Blog\|blog]] and appear in [[2.Outputs/2.4.Website/Media\|Media]] on those topics. I also serve as a graduate lecturer at the [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
 
 I hold a master’s degree in [Politics and Technology](https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc) from the [Technical University Munich](https://www.tum.de/en/) and a bachelor’s degree in [Computer Science](https://www.cs.manchester.ac.uk/) from [The University of Manchester](https://www.manchester.ac.uk). I previously worked for six years as a software engineer at [Google](https://google.com), mostly in the security and privacy space.
 
-Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[4 Website/Beliefs/Beliefs and life tips\|list of things I believe]].
+Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[2.Outputs/2.4.Website/Beliefs/Beliefs\|list of things I believe]].
 
 ---
 
-# [[4 Website/Blog/Blog Home\|Blog]]
+# [[2.Outputs/2.4.Website/Blog/Blog\|Blog]]
 
 Recent posts:
-- [[4 Website/Blog/How to write academic papers in Obsidian\|How to write academic papers in Obsidian]] (2026-01-02)
-- [[4 Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
-- [[4 Website/Blog/Colophon\|Colophon]] (2025-12-28)
-- [[4 Website/Blog/'Walk and Talk' with Duncan Hull at the University of Manchester\|'Walk and Talk' with Duncan Hull at the University of Manchester]] (2025-12-15)
-- [[4 Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
+- [[2.Outputs/2.4.Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
+- [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]] (2025-12-28)
+- [[2.Outputs/2.4.Website/Blog/'Walk and Talk' with Duncan Hull at the University of Manchester\|'Walk and Talk' with Duncan Hull at the University of Manchester]] (2025-12-15)
+- [[2.Outputs/2.4.Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
+- [[2.Outputs/2.4.Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (2025-11-28)
 
 { .block-language-dataview}
 
-For information on how this website is created and maintained, see the [[4 Website/Blog/Colophon\|Colophon]].
+For information on how this website is created and maintained, see the [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]].

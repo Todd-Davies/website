@@ -3,7 +3,7 @@
 ---
 
 
-**Summary**: Wisdom comes from having a had a wide variety of different experiences, not simply from getting older. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for a person being wise. 
+[[2.Outputs/2.4.Website/Beliefs/Wisdom is derived from experience\|Wisdom comes from having a had a wide variety of different experiences]], not simply from getting older. Moving countries, changing occupations, pursuing side-projects, studying across fields/domains and lots of curiosity are all green flags for a person being wise. 
 { #e5751e}
 
 
@@ -17,7 +17,7 @@ Seneca makes essentially this point in *[On the Shortness of Life](https://dn790
 
 > So you must not think a man has lived long because he has white hair and wrinkles: he has not lived long, just existed long. For suppose you should think that a man had had a long voyage who had been caught in a ranging storm as he left harbour, and carried hither and thither and driven round and round in a circle by the rage of opposing winds? He did not have a long voyage, just a long tossing about.
 
-Another way to think about this is that while [[4 Website/Beliefs/Fast feedback loops are important\|fast feedback loops are important]], varied feedback loops are important too. If we try the same thing over and over again, we should expect to receive broadly the same results.^[Assuming a reasonable degree of determinism.] We're unlikely to learn something new that way. As such, to become wise, we should also aim to get a wide variety of life experience. 
+Another way to think about this is that while [[2.Outputs/2.4.Website/Beliefs/Fast feedback loops are important\|Fast feedback loops are important]], varied feedback loops are important too. If we try the same thing over and over again, we should expect to receive broadly the same results.^[Assuming a reasonable degree of determinism.] We're unlikely to learn something new that way. As such, to become wise, we should also aim to get a wide variety of life experience. 
 
 I've observed that people who I consider to be wise have often moved countries,^[This is an especially strong indicator in young people.] changed occupations, pursued eclectic side-projects, studied in multiple fields or cultivated curiosity. These things tend to expose them to all sorts of new and different experiences. I think it's those *new* experiences that ultimately give rise to wisdom.^[The [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) also comes to mind here. It's likely (although I have no proof) that 80% of our wisdom comes from 20% of our experiences.]
 
