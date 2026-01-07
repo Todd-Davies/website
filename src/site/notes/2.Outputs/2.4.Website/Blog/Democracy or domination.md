@@ -1,5 +1,5 @@
 ---
-{"title":"Democracy or Domination","draft":false,"created":"2025-01-23T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-toc":true,"dg-show-tags":true,"dg-show-search":true,"tags":["Democracy","Competition Law","Non-domination","Republican liberty"],"generateEmbeddedMetadata":true,"dg-path":"Democracy or domination.md","permalink":"/democracy-or-domination/","hide":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
+{"title":"Democracy or Domination","draft":false,"created":"2025-01-23T00:40:04-07:00","dg-publish":true,"dg-hide":true,"dg-show-toc":true,"dg-show-tags":true,"dg-enable-search":true,"tags":["Democracy","Competition Law","Non-domination","Republican liberty"],"generateEmbeddedMetadata":true,"dg-path":"Democracy or domination.md","permalink":"/democracy-or-domination/","hide":true,"dgEnableSearch":true,"dgShowToc":true,"dgShowTags":true,"dgPassFrontmatter":true}
 ---
 
 
