@@ -39,4 +39,4 @@ Today, the competition regime is undergoing transformational change. It is being
 
 ---
 
-Originally published on the [Verfassungsblog](https://verfassungsblog.de/democracy-or-domination/) with Spencer Cohen. A follow up chapter was published in Davies, Todd, and Spencer Cohen. "Democracy or Domination: The Role of Competition Law in the Face of Oligarchy." Verfassungsbooks, 2025. 53-64.
+Originally published on the [Verfassungsblog](https://verfassungsblog.de/democracy-or-domination/) with Spencer Cohen. A follow up chapter was published in Todd Davies and Spencer Cohen, ‘[Democracy or Domination: The Role of Competition Law in the Face of Oligarchy](https://discovery.ucl.ac.uk/id/eprint/10212184/)’ in Alberto Alemanno and Jacquelyn D. Veraldi (eds), _[Musk, Power, and the EU: Can EU Law Tackle the Challenges of Unchecked Plutocracy?](https://verfassungsblog.de/book/musk-power-and-the-eu-can-eu-law-tackle-the-challenges-of-unchecked-plutocracy/)_ (1st edn, Verfassungsbooks 2025)
