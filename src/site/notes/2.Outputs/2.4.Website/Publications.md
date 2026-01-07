@@ -6,7 +6,7 @@ All publications should be somehow accessible through open access. Please email 
 
 **Key**:
 - Green: published in peer reviewed journals
-- Blue: book chapters
+- Grey: book chapters
 - Yellow: preprints/in review
 
 # 2025
