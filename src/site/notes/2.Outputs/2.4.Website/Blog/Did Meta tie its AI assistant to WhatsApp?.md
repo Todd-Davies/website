@@ -5,11 +5,7 @@
 
 In March 2025, [Meta rolled out its AI assistant in Europe](https://about.fb.com/news/2025/03/europe-meet-your-newest-assistant-meta-ai/ "(opens in a new window)"), which is accessible through its WhatsApp Messenger and will soon be available on Instagram and Facebook Messenger, too. The feature grants users of its platforms access to a “_reliable and intelligent assistant_” via a “_new blue circle icon_” on the apps. Trans-Atlantic observers may note that the launch comes almost a year after the [same features launched in the United States](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/ "(opens in a new window)"), which, in Meta’s words, is a result of it having to “[navigate [Europe’s] complex regulatory system](https://about.fb.com/news/2025/03/europe-meet-your-newest-assistant-meta-ai/ "(opens in a new window)")”.
 
-Image
-
 ![imagem1](https://legalblogs.wolterskluwer.com/competition-blog/uploads/sites/51/styles/large/public/2025/04/Imagem1.jpg.webp?itok=2m3Q6MAO "Imagem1")
-
-A screenshot showing the new AI Assistant integration in Meta’s WhatsApp Messenger.
 
 [Some commentators view](https://www.linkedin.com/posts/nicolaspetit1_amazed-by-the-new-feature-that-ai-at-meta-activity-7311731805840146432-wEbC/ "(opens in a new window)") Meta’s move as evidence of its “_dynamic efficiencies_” and “_value creation_”, made possible by the synergies originating from the 2014 Facebook/WhatsApp merger, which is now being leveraged in the intense “_race of LLMs_”. But, the firm’s decision to integrate its assistant directly into its consumer apps may, however, be of interest to competition regulators.
 

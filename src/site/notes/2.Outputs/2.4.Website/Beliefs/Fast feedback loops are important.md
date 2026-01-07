@@ -3,7 +3,7 @@
 ---
 
 
-**Summary**: The faster feedback comes in, the faster you can adjust your approach, and the fewer/less grave mistakes you'll make.
+[[2.Outputs/2.4.Website/Beliefs/Fast feedback loops are important\|Fast feedback loops are important]] because the faster feedback comes in, the faster you can adjust your approach, and the fewer/less grave mistakes you'll make.
 { #a58024}
 
 

@@ -3,7 +3,7 @@
 ---
 
 
-**Summary**: Veganism doesn't have to be a binary yes/no thing. You can be *more* vegan, and that would be great for our earth, for all sorts of animals, and possibly for you too.
+Veganism doesn't have to be a binary yes/no thing. You can [[2.Outputs/2.4.Website/Beliefs/Be more vegan\|be *more* vegan]], and that would be great for our earth, for all sorts of animals, and possibly for you too.
 { #3aad16}
 
 
