@@ -3,7 +3,7 @@
 ---
 
 
-We should strive to [[2.Outputs/2.4.Website/Beliefs/Be more vegan\|be more vegan]]. It doesn't have to be a binary yes/no thing, it's great for our earth, for all sorts of animals, and possibly for you too.
+We should strive to [[2.Outputs/2.4.Website/Beliefs/Be more vegan\|be more vegan]]. It doesn't have to be a binary yes/no thing. It's great for our earth, for all sorts of animals, and possibly for you too.
 { #3aad16}
 
 
