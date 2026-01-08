@@ -36,4 +36,4 @@ For the time being, it seems that such positive applications are only a figment 
 
 ----
 
- Originally published on the [Kluwer Competition Law Blog](https://legalblogs.wolterskluwer.com/competition-blog/the-dark-side-of-computational-antitrust-when-ai-is-used-to-evade-the-law/).
+ Originally published on the [Kluwer Competition Law Blog](https://legalblogs.wolterskluwer.com/competition-blog/the-dark-side-of-computational-antitrust-when-ai-is-used-to-evade-the-law/), re-published with light edits here.
