@@ -1,5 +1,5 @@
 ---
-{"title":"Media","description":"Media apperances by Todd Davies","dg-publish":true,"dg-hide":true,"dg-path":"Migrate.md","permalink":"/migrate/","hide":true,"dgPassFrontmatter":true}
+{"title":"Migrate to BlueSky","description":"Please consider migrating away from Twitter/X and onto BlueSky.","dg-publish":true,"dg-hide":true,"dg-path":"Migrate.md","permalink":"/migrate/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
