@@ -48,6 +48,12 @@ body {
 
   .callout-icon {
     display: none;
+
+  }
+
+  .markdown-embed-link, .file-embed-link {
+    top: -3px;
+    right: -24px;
   }
 
 }
