@@ -5,6 +5,8 @@
 
 I blog somewhat regularly. But not (usually) here. Instead, I like to write in various places across the internet. This page collates various posts into one place.
 
+You can subscribe to the [RSS feed here](/feed.xml).
+
 # 2025
 - [[2.Outputs/2.4.Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
 - [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]] (2025-12-28)
