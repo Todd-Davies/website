@@ -1,5 +1,5 @@
 ---
-{"title":"Big Tech is Harming Britain","draft":false,"created":"2024-09-05T00:40:04-07:00","generateEmbeddedMetadata":true,"dg-publish":true,"dg-hide":true,"dg-pinned":false,"dg-path":"Big Tech is harming Britain.md","permalink":"/big-tech-is-harming-britain/","hide":true,"dgPassFrontmatter":true}
+{"title":"Big Tech is Harming Britain","draft":false,"created":"2024-09-05T00:40:04-07:00","updated":"2024-09-05T00:40:04-07:00","generateEmbeddedMetadata":true,"dg-publish":true,"dg-hide":true,"dg-pinned":false,"dg-path":"Big Tech is harming Britain.md","permalink":"/big-tech-is-harming-britain/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
