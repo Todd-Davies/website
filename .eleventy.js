@@ -568,7 +568,16 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("blogPosts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/site/notes/2.Outputs/2.4.Website/Blog/*.md").reverse();
+    return collectionApi.getFilteredByGlob("./src/site/notes/2.Outputs/2.4.Website/Blog/*.md").sort((a, b) => {
+      const parseDate = (val) => {
+        return val ? new Date(val).getTime() : 0;
+      };
+
+      const dateA = parseDate(a.data.updated || a.data.created || a.date);
+      const dateB = parseDate(b.data.updated || b.data.created || b.date);
+      
+      return dateA - dateB;
+    });
   });
 
   userEleventySetup(eleventyConfig);
