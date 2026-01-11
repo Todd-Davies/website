@@ -1,5 +1,5 @@
 ---
-{"title":"Podcast - Generative AI: Innovation or Infringement of Competition Law","draft":false,"created":"2025-10-24T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"tags":["media"],"outlet-title":"Shaping Competition in the Digital Age Podcast","outlet-link":"https://scidaproject.com/scida-podcasts/","media-link":"https://open.spotify.com/episode/7H8by0DyCeCCpJVj8qkqCC","dg-path":"Generative AI - Innovation or Infringement of competition law?.md","permalink":"/generative-ai-innovation-or-infringement-of-competition-law/","hide":true,"dgPassFrontmatter":true}
+{"title":"Podcast - Generative AI: Innovation or Infringement of Competition Law","draft":false,"created":"2025-10-24T00:40:04-07:00","updated":"2025-10-24T00:40:04-07:00","dg-publish":true,"dg-hide":true,"generateEmbeddedMetadata":true,"tags":["media"],"outlet-title":"Shaping Competition in the Digital Age Podcast","outlet-link":"https://scidaproject.com/scida-podcasts/","media-link":"https://open.spotify.com/episode/7H8by0DyCeCCpJVj8qkqCC","dg-path":"Generative AI - Innovation or Infringement of competition law?.md","permalink":"/generative-ai-innovation-or-infringement-of-competition-law/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
