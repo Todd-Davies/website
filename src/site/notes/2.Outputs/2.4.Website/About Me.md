@@ -15,7 +15,7 @@ Outside of that, I’m interested in all sorts of things. When not writing my th
 ---
 
 # [[2.Outputs/2.4.Website/Blog\|Blog]]
-
+<p style="text-align: right;"><a href='/feed.xml'>RSS feed</a></p>
 Recent posts:
 - [[2.Outputs/2.4.Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
 - [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]] (2025-12-28)
