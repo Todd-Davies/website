@@ -9,16 +9,16 @@
     <title>{{ meta.siteName}}</title>
     <link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self" /////>
     <link href="{{ meta.siteBaseUrl }}" /////>
-    <updated>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <updated>{{ collections.blogPosts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
     <id>{{ meta.siteBaseUrl }}</id>
-    {%- for note in collections.note | reverse %}
+    {%- for note in collections.blogPosts | reverse %}
         <entry>
             <title>
                 {% if note.title %}{{ note.title }}
                 {% else %}{{ note.fileSlug }}
                 {% endif %}
             </title>
-            <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
+            <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%elif note.data.created %}{{ note.data.created | dateToZulu }}{% else %}{{ note.date | dateToRfc3339 }}{% endif %}</updated>
             <id>{{ meta.siteBaseUrl }}{{note.url | url }}</id>
             <content type="html">
                 {{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}

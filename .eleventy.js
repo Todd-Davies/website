@@ -567,6 +567,10 @@ module.exports = function (eleventyConfig) {
     },
   });
 
+  eleventyConfig.addCollection("blogPosts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/site/notes/2.Outputs/2.4.Website/Blog/*.md").reverse();
+  });
+
   userEleventySetup(eleventyConfig);
 
   return {
