@@ -15,7 +15,7 @@ Outside of that, I’m interested in all sorts of things. When not writing my th
 ---
 
 # [[2.Outputs/2.4.Website/Blog\|Blog]]
-<p style="text-align: right;"><a href='/feed.xml'>RSS feed</a></p>
+
 Recent posts:
 - [[2.Outputs/2.4.Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
 - [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]] (2025-12-28)
@@ -24,5 +24,6 @@ Recent posts:
 - [[2.Outputs/2.4.Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (2025-11-28)
 
 { .block-language-dataview}
+<p style="text-align: right;"><a href='/feed.xml'>RSS feed</a></p>
 
 For information on how this website is created and maintained, see the [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]].
