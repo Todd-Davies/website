@@ -8,7 +8,7 @@ I blog somewhat regularly. But not (usually) here. Instead, I like to write in v
 You can subscribe to the [RSS feed here](/feed.xml).
 
 # 2026
-- [[2.Outputs/2.4.Website/Blog/2026 Concurrences Antitrust Writing Awards\|2026 Concurrences Antitrust Writing Awards]] (2026-01-12)
+- [[2.Outputs/2.4.Website/Blog/2026 Concurrences Antitrust Writing Awards Nomination\|2026 Concurrences Antitrust Writing Awards Nomination]] (2026-01-12)
 
 { .block-language-dataview}
 # 2025
