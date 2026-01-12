@@ -1,5 +1,5 @@
 ---
-{"title":"2026 Concurrences Antitrust Writing Awards","draft":false,"created":"2026-01-12","updated":"2026-01-12","dg-publish":true,"dg-hide":false,"tags":["CompetitionLaw","Democracy"],"generateEmbeddedMetadata":true,"dg-path":"2026 Concurrences Antitrust Writing Awards.md","permalink":"/2026-concurrences-antitrust-writing-awards/","dgPassFrontmatter":true}
+{"title":"2026 Concurrences Antitrust Writing Awards","draft":false,"created":"2026-01-12","updated":"2026-01-12","dg-publish":true,"dg-hide":true,"tags":["CompetitionLaw","Democracy"],"generateEmbeddedMetadata":true,"dg-path":"2026 Concurrences Antitrust Writing Awards.md","permalink":"/2026-concurrences-antitrust-writing-awards/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
