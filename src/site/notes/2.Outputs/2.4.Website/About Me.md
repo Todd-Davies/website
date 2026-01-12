@@ -17,11 +17,11 @@ Outside of that, I’m interested in all sorts of things. When not writing my th
 # [[2.Outputs/2.4.Website/Blog\|Blog]]
 
 Recent posts:
+- [[2.Outputs/2.4.Website/Blog/2026 Concurrences Antitrust Writing Awards\|2026 Concurrences Antitrust Writing Awards]] (2026-01-12)
 - [[2.Outputs/2.4.Website/Blog/The Future of Enforcement and Compliance? How Computational Antitrust is Used\|Podcast - The Future of Enforcement and Compliance? How Computational Antitrust is Used]] (2025-12-29)
 - [[2.Outputs/2.4.Website/Blog/Colophon\|Colophon]] (2025-12-28)
 - [[2.Outputs/2.4.Website/Blog/'Walk and Talk' with Duncan Hull at the University of Manchester\|'Walk and Talk' with Duncan Hull at the University of Manchester]] (2025-12-15)
 - [[2.Outputs/2.4.Website/Blog/Who are tech experts and what can they bring to competition enforcement?\|Who are Tech Experts and What Can They Bring to Competition Enforcement?]] (2025-12-11)
-- [[2.Outputs/2.4.Website/Blog/The AGCM imposes interim measures in its case against Meta\|The Italian Competition Authority Imposes Interim Measures in its Abuse of Dominance Case Against Meta AI]] (2025-11-28)
 
 { .block-language-dataview}
 <p style="text-align: right;"><a href='/feed.xml'>RSS feed</a></p>
