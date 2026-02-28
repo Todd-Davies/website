@@ -1,5 +1,5 @@
 ---
-{"title":"2026 Concurrences Antitrust Writing Awards Nomination","draft":false,"created":"2026-01-12","updated":"2026-01-12","dg-publish":true,"dg-hide":true,"tags":["CompetitionLaw","Democracy"],"generateEmbeddedMetadata":true,"dg-path":"2026 Concurrences Antitrust Writing Awards Nomination.md","permalink":"/2026-concurrences-antitrust-writing-awards-nomination/","hide":true,"dgPassFrontmatter":true}
+{"title":"2026 Concurrences Antitrust Writing Awards Nomination","draft":false,"created":"2026-01-12","updated":"2026-01-12","dg-publish":true,"dg-hide":true,"tags":["CompetitionLaw","Democracy"],"generateEmbeddedMetadata":true,"summary":"I'm delighted to have been nominated, along with Spencer Cohen, for the Best Student Paper award in the 2026 Concurrences Antitrust Writing Awards. Our nominated paper, _Error Costs, Platform Regulation and Democracy_, was recently published in the Journal of Competition Law and Economics (open access).","dg-path":"2026 Concurrences Antitrust Writing Awards Nomination.md","permalink":"/2026-concurrences-antitrust-writing-awards-nomination/","hide":true,"dgPassFrontmatter":true}
 ---
 
 
