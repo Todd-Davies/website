@@ -22,9 +22,10 @@
     {% endif %}
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
-      {% endif %}
+      <!-- This is a bit hacky, but turn off the title on the index page. -->
+      <!-- {% if settings.dgShowInlineTitle !== true %}
+        <h1>{{ noteTitle }}</h1>
+      {% endif %} -->
 
       <div class="header-meta">
         {% if settings.dgShowTags === true and tags %}

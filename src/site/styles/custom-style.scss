@@ -56,4 +56,9 @@ body {
     right: -24px;
   }
 
+  .content.cm-s-obsidian h1 {
+    /* Stop the first header from having weird margins. */
+    margin-top: 0px;
+    margin-bottom: 16px;
+  }
 }
