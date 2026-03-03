@@ -9,7 +9,7 @@ I'm Todd Davies, a final year PhD candidate in Competition Law at [University Co
 
 ## What I research
 
-Competition law is the set of rules that keeps our market economies free, open, and fair. It prevents companies which are supposed to be competing with each other from simply deciding not to, and stops powerful companies from bullying others. My PhD focuses on how extremely large companies, especially those like Google, Apple, Meta, and Amazon, can damage the competitive structure of markets, even in ways that are hard to see.
+Competition law is the set of rules that keeps our market economies free, open, and fair. It prevents companies which are supposed to be competing with each other from simply deciding not to, and stops powerful companies from bullying others. My PhD focuses on how extremely large companies, like Google, Apple, Meta, or Amazon, can damage the competitive structure of markets, even in ways that are hard to see.
 
 To make these harms visible, I borrow ideas from an unexpected place: theoretical ecology, the science of how species coexist and compete in nature. Just as ecologists study what happens when an invasive species takes over an ecosystem, I study what happens when a dominant platform reshapes its market. This leads me to propose new ways of understanding exclusionary abuse of dominance under Article 102 TFEU, the main EU law that regulates market power.
 
