@@ -2,15 +2,30 @@
 {"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-hide":true,"dg-metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"dg-path":"About Me.md","permalink":"/about-me/","metatags":{"og:image":"/logo.jpg","description":"Todd Davies is a final year PhD Candidate in Competition Law at University College London (UCL), with a background in software engineering and political science. He works as a Graduate Lecturer at the UCL Faculty of Laws.","og:type":"profile","og:url":"https://todddavi.es","og:site_name":"Todd Davies' Website"},"hide":true,"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-I’m a final year PhD candidate in Competition Law at [University College London](https://www.ucl.ac.uk/laws/), supervised by [Ioannis Lianos](https://profiles.ucl.ac.uk/1800-ioannis-lianos), [Deni Mantzari](https://profiles.ucl.ac.uk/24171-despoina-mantzari) and [David Murrell](https://profiles.ucl.ac.uk/604-david-murrell).
 
-My research asks how dominant companies harm the effective structure of competition. Drawing on theoretical ecology, it challenges the conventional approach to competition enforcement by proposing a new ontology of competition. In doing so, it provides a fresh interpretation of exclusionary abuse of dominance under Article 102 TFEU.
+# Hey!
 
-Alongside my PhD, I work on a variety of areas related to EU competition law and digital market regulation. I frequently [[2.Outputs/2.4.Website/Publications\|publish]], [[2.Outputs/2.4.Website/Blog\|blog]] and appear in [[2.Outputs/2.4.Website/Media\|Media]] on those topics. I also serve as a graduate lecturer at the [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
+I'm Todd Davies, a final year PhD candidate in Competition Law at [University College London](https://www.ucl.ac.uk/), supervised by [Ioannis Lianos](https://profiles.ucl.ac.uk/1800-ioannis-lianos), [Deni Mantzari](https://profiles.ucl.ac.uk/24171-despoina-mantzari) and [David Murrell](https://profiles.ucl.ac.uk/604-david-murrell). I also work as a graduate lecturer at the [UCL Faculty of Laws](https://www.ucl.ac.uk/laws/ucl-faculty-laws).
 
-I hold a master’s degree in [Politics and Technology](https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc) from the [Technical University Munich](https://www.tum.de/en/) and a bachelor’s degree in [Computer Science](https://www.cs.manchester.ac.uk/) from [The University of Manchester](https://www.manchester.ac.uk). I previously worked for six years as a software engineer at [Google](https://google.com), mostly in the security and privacy space.
+## What I research
 
-Outside of that, I’m interested in all sorts of things. When not writing my thesis, you will likely find me biking around London, cold swimming, thrift shopping, meditating, hosting, or travelling somewhere around Europe. Here is a [[2.Outputs/2.4.Website/Beliefs/Beliefs\|list of things I believe]].
+Competition law is the set of rules that keeps our market economies free, open, and fair. It prevents companies which are supposed to be competing with each other from simply deciding not to, and stops powerful companies from bullying others. My PhD focuses on how extremely large companies, especially those like Google, Apple, Meta, and Amazon, can damage the competitive structure of markets, even in ways that are hard to see.
+
+To make these harms visible, I borrow ideas from an unexpected place: theoretical ecology, the science of how species coexist and compete in nature. Just as ecologists study what happens when an invasive species takes over an ecosystem, I study what happens when a dominant platform reshapes its market. This leads me to propose new ways of understanding exclusionary abuse of dominance under Article 102 TFEU, the main EU law that regulates market power.
+
+## What I work on beyond the PhD
+
+Alongside my thesis, I research and write on a broad range of topics in EU competition law and digital market regulation, including merger control, the Digital Markets Act, platform self-preferencing, ad tech, generative AI, and the relationship between competition enforcement and democracy. I have published in the Journal of Competition Law and Economics, the Utrecht Law Review, Frontiers in Sustainability, Tech Policy Press, and Verfassungsblog, among other outlets. A full list is on my [publications](/publications/) page.
+
+I also advise policymakers directly. In 2025, I provided independent advice to the European Commission's Directorate General for Competition on the implementation of the Digital Markets Act. In 2026, I have been advising the UK Competition and Markets Authority on pro-competitive interventions under the Digital Markets, Competition and Consumers Act.
+
+I regularly [blog](/blog/), speak at conferences, and appear in [media](/media/) on these topics. I co-manage the [Cambridge–UCL Competition Law and Policy Hub](https://www.ucl.ac.uk/laws/) with colleagues across both universities.
+
+## Background
+
+Before academia, I spent six years as a software engineer at [Google](https://google.com) (2016–22), mostly on the security and privacy team. That experience gives me a practitioner's understanding of how large technology companies build products, make decisions, and respond to regulation. I now bring that perspective to my legal research.
+
+I hold a master's degree in [Politics and Technology](https://www.tum.de/en/studies/degree-programs/detail/politics-technology-master-of-science-msc) from the [Technical University Munich](https://www.tum.de/en/) and a bachelor's degree in [Computer Science](https://www.cs.manchester.ac.uk/) from [The University of Manchester](https://www.manchester.ac.uk).
 
 ---
 
