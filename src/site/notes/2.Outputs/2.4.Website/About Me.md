@@ -9,15 +9,15 @@ I'm Todd Davies, a final year PhD candidate in Competition Law at [University Co
 
 ## What I research
 
-Competition law is the set of rules that keeps our market economies free, open, and fair. It prevents companies which are supposed to be competing with each other from simply deciding not to, and stops powerful companies from bullying others. My PhD focuses on how extremely large companies, like Google, Apple, Meta, or Amazon, can damage the competitive structure of markets, even in ways that are hard to see.
+Competition law is the set of rules that keeps our market economies free, open, and fair. It prevents companies that are supposed to be competing with each other from simply deciding not to. It also stops big companies from bullying smaller ones, or you and me. My PhD focuses on how dominant companies, like Google, Apple, Meta, or Amazon, can damage the competitive structure of markets, even in ways that are hard to see.
 
-To make these harms visible, I borrow ideas from an unexpected place: theoretical ecology, the science of how species coexist and compete in nature. Just as ecologists study what happens when an invasive species takes over an ecosystem, I study what happens when a dominant platform reshapes its market. This leads me to propose new ways of understanding exclusionary abuse of dominance under Article 102 TFEU, the main EU law that regulates market power.
+To make these harms visible, I borrow ideas from an unexpected place: theoretical ecology, the science of how species coexist and compete in nature. Just as ecologists study how species live inside and shape their ecosystems, I study how companies do business within and structure theirs. This leads me to propose new ways of understanding exclusionary abuse of dominance under Article 102 TFEU, the main EU law that regulates market power.
 
 ## What I work on beyond the PhD
 
-Alongside my thesis, I research and write on a broad range of topics in EU competition law and digital market regulation, including merger control, the Digital Markets Act, platform self-preferencing, ad tech, generative AI, and the relationship between competition enforcement and democracy. I have published in the Journal of Competition Law and Economics, the Utrecht Law Review, Frontiers in Sustainability, Tech Policy Press, and Verfassungsblog, among other outlets. A full list is on my [publications](/publications/) page.
+Alongside my thesis, I research and write on a broad range of topics in EU competition law and digital market regulation, including merger control, the Digital Markets Act, platform self-preferencing, ad tech, generative AI, and the relationship between competition enforcement and democracy. I have published in the Journal of Competition Law and Economics, the Journal of European Competition Law and Practice, the Utrecht Law Review, Frontiers in Sustainability, Tech Policy Press, and Verfassungsblog, among other outlets. A full list is on my [publications](/publications/) page.
 
-I also advise policymakers directly. In 2025, I provided independent advice to the European Commission's Directorate General for Competition on the implementation of the Digital Markets Act. In 2026, I have been advising the UK Competition and Markets Authority on pro-competitive interventions under the Digital Markets, Competition and Consumers Act.
+I also advise policymakers directly. This has included providing independent advice to the European Commission's Directorate General for Competition on the implementation of the Digital Markets Act, and to the UK Competition and Markets Authority on pro-competitive interventions under the Digital Markets, Competition and Consumers Act.
 
 I regularly [blog](/blog/), speak at conferences, and appear in [media](/media/) on these topics. I co-manage the [Cambridge–UCL Competition Law and Policy Hub](https://www.ucl.ac.uk/laws/) with colleagues across both universities.
 

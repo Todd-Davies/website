@@ -14,6 +14,14 @@ All publications should be somehow accessible through open access. Please email 
 - Grey: book chapters
 - Yellow: preprints/in review
 
+# 2026
+
+> [!abstract] Cohen S and Davies T, 'Opt-Out Remedies Will Not Fix AI Overviews' (2026) Journal of European Competition Law and Practice (forthcoming)
+> •	Google's new AI Overview feature has raised competition concerns relating to publishers' inability to opt-out.
+•	We argue that the harm to competition caused by AI Overview instead lies in its ability to hoard traffic, diverting it from publishers.
+•	We show how an opt-out remedy - as suggested by competition authorities - would be ineffective at ending the infringement, providing meaningful choice to publishers and may have several unintended consequences.
+•	Competition authorities should therefore re-evaluate their approach to remedies, with a stronger focus on protecting merit-based competition for user traffic.
+
 # 2025
 
 > [!abstract] Davies T and Cohen S, '[Error Costs, Platform Regulation, and Democracy](https://doi.org/10.1093/joclec/nhaf008)' (2025) 21 Journal of Competition Law & Economics 390
@@ -22,7 +30,7 @@ All publications should be somehow accessible through open access. Please email 
 > [!abstract] Davies T and Georgieva Z, '[Google Adtech – Break Up or Break Out?](https://utrechtlawreview.org/articles/10.36633/ulr.1113)' (2025) 21 Utrecht Law Review 40
 > This paper argues that by integrating its advertising network into its popular online platforms, Google has foreclosed competition in the online advertising market by denying rival supply-side ad networks access to its customer base. It proposes a remedy called "marketised monetisation," which is complementary to the structural break-up proposed by the European Commission in *Google AdTech*. Marketised monetisation would introduce an interoperability layer between Google's popular online services and third-party ad networks, allowing consumers to choose which firm should monetise their usage of Google's zero-priced products and services.
 
-> [!chapter] Todd Davies and Spencer Cohen, '[Democracy or Domination: The Role of Competition Law in the Face of Oligarchy](https://discovery.ucl.ac.uk/id/eprint/10212184/)' in Alberto Alemanno and Jacquelyn D. Veraldi (eds), [_Musk, Power, and the EU: Can EU Law Tackle the Challenges of Unchecked Plutocracy?_](https://verfassungsblog.de/book/musk-power-and-the-eu-can-eu-law-tackle-the-challenges-of-unchecked-plutocracy/) (1st edn, Verfassungsbooks 2025)
+> [!chapter] Davies T and Cohen S, '[Democracy or Domination: The Role of Competition Law in the Face of Oligarchy](https://discovery.ucl.ac.uk/id/eprint/10212184/)' in Alberto Alemanno and Jacquelyn D. Veraldi (eds), [_Musk, Power, and the EU: Can EU Law Tackle the Challenges of Unchecked Plutocracy?_](https://verfassungsblog.de/book/musk-power-and-the-eu-can-eu-law-tackle-the-challenges-of-unchecked-plutocracy/) (1st edn, Verfassungsbooks 2025)
 > Democracy in Europe is under threat. Competition law, given its history and potential as a tool of anti-domination, is a natural fit to protect and revitalise democracy in Europe. Yet the protection of democracy is habitually said to fall outside the proper scope of competition enforcement. Spencer Cohen and I show how competition law can, through a recalibration of its error cost framework, be used to safeguard against economic domination in markets.
 
 > [!preprint]- Davies, T. [Market Diversity and Market Churn: Measures of Competitive Structure](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185363) 
