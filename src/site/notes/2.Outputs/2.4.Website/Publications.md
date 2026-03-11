@@ -14,7 +14,7 @@ All publications should be somehow accessible through open access. Please email 
 - Grey: book chapters
 - Yellow: preprints/in review
 
-# 2025
+# 2026
 
 > [!abstract] Cohen S and Davies T, 'Opt-Out Remedies Will Not Fix AI Overviews' (2026) Journal of European Competition Law and Practice (forthcoming)
 > •	Google's new AI Overview feature has raised competition concerns relating to publishers' inability to opt-out.
@@ -22,6 +22,7 @@ All publications should be somehow accessible through open access. Please email 
 •	We show how an opt-out remedy - as suggested by competition authorities - would be ineffective at ending the infringement, providing meaningful choice to publishers and may have several unintended consequences.
 •	Competition authorities should therefore re-evaluate their approach to remedies, with a stronger focus on protecting merit-based competition for user traffic.
 
+# 2025
 
 > [!abstract] Davies T and Cohen S, '[Error Costs, Platform Regulation, and Democracy](https://doi.org/10.1093/joclec/nhaf008)' (2025) 21 Journal of Competition Law & Economics 390
 > The New Platform Regulations (NPRs), which include the Digital Markets Act, the Digital Markets, Competition and Consumers Act and others, were crafted to foster fair and contestable digital markets. Each of the NPRs share a common feature: a precautionary error-cost framework which permits intervention to protect competition before harm occurs. This article examines how this precautionary approach to error costs allows the competition regime to pursue the value of democracy, alongside others. It identifies three mechanisms through which a precautionary conception of error costs, as adopted by the NPRs, can pursue democratic ideals: ensuring that powerful firms do not exist beyond regulatory control, shielding consumers from domination by platform monopolies through contestable markets that protect consumer choice, and reclaiming the role of ‘architecting’ markets from private actors as to reflect the public interest.
