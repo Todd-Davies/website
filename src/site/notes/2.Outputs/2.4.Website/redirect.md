@@ -10,7 +10,7 @@
   console.log(target)
   switch (target) {
     case 'sb':
-        target = 'https://hathiari.com/birthday.html';
+        target = 'https://docs.google.com/presentation/d/e/2PACX-1vRCl7T8pRjynHQyTrVhx6VChgtpmgTX1SGZl7agKile1GvDm1V-nRakCZTQ8nL2dtQoJgvMJOLRie_a/pub?start=false&loop=false&delayms=60000';
         break;
     default:
       target = null; // Disallow all other URLs
