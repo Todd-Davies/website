@@ -7,6 +7,7 @@
 (function () {
   var params = new URLSearchParams(window.location.search);
   var target = params.get('t'); // t for target
+  console.log(target)
   switch (target) {
     case 'sb':
         target = 'https://www.hathiari.com';
