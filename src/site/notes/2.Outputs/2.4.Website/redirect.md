@@ -14,6 +14,10 @@
     default:
       target = null; // Disallow all other URLs
   }
+  if (target && /^https?:\/\//i.test(target)) {
+      window.location.replace(target);
+      return;
+  }
   document.addEventListener('DOMContentLoaded', function () {
     document.body.textContent = 'No valid "t" (target) parameter provided.';
   });
