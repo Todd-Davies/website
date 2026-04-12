@@ -10,7 +10,7 @@
   console.log(target)
   switch (target) {
     case 'sb':
-        target = 'https://www.hathiari.com';
+        target = 'https://hathiari.com';
         break;
     default:
       target = null; // Disallow all other URLs
