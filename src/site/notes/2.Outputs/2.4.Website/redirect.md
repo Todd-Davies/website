@@ -14,10 +14,12 @@
     default:
       target = null; // Disallow all other URLs
   }
+  console.log(target)
   if (target && /^https?:\/\//i.test(target)) {
+	  console.log("Redirecting!")
       window.location.replace(target);
       return;
-  }
+  } 
   document.addEventListener('DOMContentLoaded', function () {
     document.body.textContent = 'No valid "t" (target) parameter provided.';
   });
