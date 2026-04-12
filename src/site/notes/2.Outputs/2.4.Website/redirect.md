@@ -11,6 +11,7 @@
   switch (target) {
     case 'sb':
         target = 'https://www.hathiari.com';
+        break;
     default:
       target = null; // Disallow all other URLs
   }
