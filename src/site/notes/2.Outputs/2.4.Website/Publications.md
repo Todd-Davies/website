@@ -16,7 +16,7 @@ All publications should be somehow accessible through open access. Please email 
 
 # 2026
 
-> [!abstract] Cohen S and Davies T, 'Opt-Out Remedies Will Not Fix AI Overviews' (2026) Journal of European Competition Law and Practice (forthcoming)
+> [!abstract] Cohen S and Davies T, '[Opt-Out Remedies Will Not Fix AI Overviews](https://doi.org/10.1093/jeclap/lpag025)' (2026) Journal of European Competition Law and Practice
 > •	Google's new AI Overview feature has raised competition concerns relating to publishers' inability to opt-out.
 •	We argue that the harm to competition caused by AI Overview instead lies in its ability to hoard traffic, diverting it from publishers.
 •	We show how an opt-out remedy - as suggested by competition authorities - would be ineffective at ending the infringement, providing meaningful choice to publishers and may have several unintended consequences.
