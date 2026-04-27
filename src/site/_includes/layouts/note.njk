@@ -4,9 +4,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
   <head>
-    <title>{% if meta.siteName %}{{ meta.siteName }} {% endif %} | {{ page.fileSlug }}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
-    {%include "components/blogheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
     {% endfor %}
@@ -27,8 +26,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <main class="content cm-s-obsidian {{contentClasses}}">
-      <header class="note-header">
+    <main class="content cm-s-obsidian print {{contentClasses}}">
+      <header>
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
@@ -47,10 +46,10 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
           <div class="timestamps">
             {%- if meta.timestampSettings.showCreated and created -%}
-            <div><i data-lucide="calendar-plus"></i> Created on: <span class="human-date" data-date="{{created}}"></span></div>
+            <div><i data-lucide="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
-            <div><i data-lucide="calendar-clock"></i> Last updated: <span class="human-date" data-date="{{updated}}"></span></div>
+            <div><i data-lucide="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
           </div>
           {%- endif -%}
@@ -93,5 +92,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+    {% if contentClasses and "canvas-page" in contentClasses %}
+      {%include "components/canvasScript.njk"%}
+    {% endif %}
   </body>
 </html>
