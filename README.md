@@ -9,13 +9,6 @@ See the README in the plugin repo for information on how to set it up.
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
 
 ---
-## Running locally
-
-> npm install
-> npm run build
-> npm run start
-
----
 ## CSS Variables
 
 The digital garden is fully customizable through CSS variables. Override these in `src/site/styles/custom-style.scss` to customize your garden's appearance.
@@ -164,6 +157,7 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-logo-height` | `40px` | Site logo height on desktop |
 | `--dg-logo-height-mobile` | `32px` | Site logo height on mobile |
 | `--dg-logo-margin` | `10px 15px` | Site logo margin |
+| `--dg-filetree-logo-height` | `70px` | Site logo height in filetree sidebar |
 
 #### Note Link / Filetree Item Variables
 
